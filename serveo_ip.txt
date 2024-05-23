@@ -1,2 +1,0 @@
-[32mForwarding TCP connections from serveo.net:38472
-[0m
