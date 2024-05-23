@@ -1,0 +1,3366 @@
+Applying: 
+  Clean:     /workspaces/EventosMC/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar
+  Output:    /workspaces/EventosMC/servidor_minecraft/libraries/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-server.jar
+  KeepData:  false
+  Unpatched: false
+  Pack200:   false
+  Legacy:    false
+Loading patches file: /workspaces/EventosMC/servidor_minecraft/libraries/com/mohistmc/installation/data/server.lzma
+  Reading patch com.mojang.blaze3d.pipeline.RenderTarget.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$BlendState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$BooleanState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$ColorLogicState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$ColorMask.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$CullState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$DepthState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$DestFactor.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$LogicOp.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$PolygonOffsetState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$ScissorState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$SourceFactor.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$StencilFunc.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$StencilState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$TextureState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager$Viewport.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.GlStateManager.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.Window$WindowInitFailed.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.platform.Window.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.BufferBuilder$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.BufferBuilder$DrawState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.BufferBuilder$SortState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.BufferBuilder.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.SheetedDecalTextureGenerator.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexConsumer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormat$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormat$IndexType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormat$Mode.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormat.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormatElement$Type.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormatElement$Usage$ClearState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormatElement$Usage$SetupState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormatElement$Usage.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexFormatElement.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexMultiConsumer$Double.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexMultiConsumer$Multiple.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.blaze3d.vertex.VertexMultiConsumer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch com.mojang.math.Matrix3f.binpatch
+    Checksum: d5414b25 Exists: true
+  Reading patch com.mojang.math.Matrix4f.binpatch
+    Checksum: cb688881 Exists: true
+  Reading patch com.mojang.math.Transformation.binpatch
+    Checksum: 8d34de93 Exists: true
+  Reading patch com.mojang.math.Vector3f.binpatch
+    Checksum: ad4b7b56 Exists: true
+  Reading patch com.mojang.math.Vector4f.binpatch
+    Checksum: fa53f2c8 Exists: true
+  Reading patch com.mojang.realmsclient.gui.screens.RealmsGenericErrorScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.CrashReport.binpatch
+    Checksum: f5fc70f4 Exists: true
+  Reading patch net.minecraft.CrashReportCategory$Entry.binpatch
+    Checksum: 96bf9d63 Exists: true
+  Reading patch net.minecraft.CrashReportCategory.binpatch
+    Checksum: c3cf6967 Exists: true
+  Reading patch net.minecraft.SharedConstants.binpatch
+    Checksum: b9ec3c13 Exists: true
+  Reading patch net.minecraft.Util$1.binpatch
+    Checksum: c5c37751 Exists: true
+  Reading patch net.minecraft.Util$10.binpatch
+    Checksum: a7f704de Exists: true
+  Reading patch net.minecraft.Util$2.binpatch
+    Checksum: bdd90479 Exists: true
+  Reading patch net.minecraft.Util$3.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.Util$4.binpatch
+    Checksum: e2c3f8 Exists: true
+  Reading patch net.minecraft.Util$5.binpatch
+    Checksum: 239e882a Exists: true
+  Reading patch net.minecraft.Util$6.binpatch
+    Checksum: 8ff66064 Exists: true
+  Reading patch net.minecraft.Util$7.binpatch
+    Checksum: 600d5b36 Exists: true
+  Reading patch net.minecraft.Util$8.binpatch
+    Checksum: 3d5fbb82 Exists: true
+  Reading patch net.minecraft.Util$9.binpatch
+    Checksum: 31b2caa7 Exists: true
+  Reading patch net.minecraft.Util$IdentityStrategy.binpatch
+    Checksum: 3c85773c Exists: true
+  Reading patch net.minecraft.Util$OS$1.binpatch
+    Checksum: 5fbca8ca Exists: true
+  Reading patch net.minecraft.Util$OS$2.binpatch
+    Checksum: 79d99bcf Exists: true
+  Reading patch net.minecraft.Util$OS.binpatch
+    Checksum: 35bf435 Exists: true
+  Reading patch net.minecraft.Util.binpatch
+    Checksum: 5d649886 Exists: true
+  Reading patch net.minecraft.advancements.Advancement$Builder.binpatch
+    Checksum: 6a05b1ca Exists: true
+  Reading patch net.minecraft.advancements.Advancement.binpatch
+    Checksum: 9b0196cb Exists: true
+  Reading patch net.minecraft.advancements.AdvancementList$Listener.binpatch
+    Checksum: 446161e4 Exists: true
+  Reading patch net.minecraft.advancements.AdvancementList.binpatch
+    Checksum: 704dfbe2 Exists: true
+  Reading patch net.minecraft.advancements.AdvancementRewards$Builder.binpatch
+    Checksum: 67439121 Exists: true
+  Reading patch net.minecraft.advancements.AdvancementRewards.binpatch
+    Checksum: 3c8f444e Exists: true
+  Reading patch net.minecraft.advancements.critereon.ItemPredicate$Builder.binpatch
+    Checksum: 25df1c29 Exists: true
+  Reading patch net.minecraft.advancements.critereon.ItemPredicate.binpatch
+    Checksum: 167bd9e7 Exists: true
+  Reading patch net.minecraft.client.Camera$NearPlane.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Camera.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.ClientBrandRetriever.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.ClientRecipeBook.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.KeyMapping.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.KeyboardHandler$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.KeyboardHandler.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Minecraft$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Minecraft$ChatStatus$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Minecraft$ChatStatus$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Minecraft$ChatStatus$3.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Minecraft$ChatStatus$4.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Minecraft$ChatStatus.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Minecraft$ExperimentalDialogType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Minecraft.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.MouseHandler.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Options$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Options$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Options$3.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Options$4.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Options$FieldAccess.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Options.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.RecipeBookCategories$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.RecipeBookCategories.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.Screenshot.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.ToggleKeyMapping.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.User$Type.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.User.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.color.block.BlockColors.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.color.item.ItemColors.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.Gui$HeartType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.Gui.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.MapRenderer$MapInstance.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.MapRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.AbstractSelectionList$Entry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.AbstractSelectionList$SelectionDirection.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.AbstractSelectionList$TrackedList.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.AbstractSelectionList.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.AbstractWidget.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.BossHealthOverlay$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.BossHealthOverlay.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.DebugScreenOverlay$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.components.DebugScreenOverlay.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.ConnectScreen$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.ConnectScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.DeathScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.LoadingOverlay$LogoTexture.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.LoadingOverlay.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.MenuScreens$ScreenConstructor.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.MenuScreens.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.OptionsScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.Screen$NarratableSearchResult.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.Screen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.TitleScreen$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.TitleScreen$Warning32Bit.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.TitleScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.advancements.AdvancementTab.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.advancements.AdvancementTabType$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.advancements.AdvancementTabType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.advancements.AdvancementsScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.controls.KeyBindsList$CategoryEntry$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.controls.KeyBindsList$CategoryEntry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.controls.KeyBindsList$Entry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.controls.KeyBindsList$KeyEntry$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.controls.KeyBindsList$KeyEntry$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.controls.KeyBindsList$KeyEntry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.controls.KeyBindsList.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.controls.KeyBindsScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.AbstractContainerScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen$CustomCreativeSlot.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen$ItemPickerMenu.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen$SlotWrapper.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.EffectRenderingInventoryScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.EnchantmentScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.LoomScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.inventory.tooltip.ClientTooltipComponent.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.multiplayer.ServerSelectionList$Entry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.multiplayer.ServerSelectionList$LANHeader.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.multiplayer.ServerSelectionList$NetworkServerEntry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.multiplayer.ServerSelectionList$OnlineServerEntry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.multiplayer.ServerSelectionList.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.packs.PackSelectionModel$Entry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.packs.PackSelectionModel$EntryBase.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.packs.PackSelectionModel$SelectedPackEntry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.packs.PackSelectionModel$UnselectedPackEntry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.packs.PackSelectionModel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.packs.PackSelectionScreen$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.packs.PackSelectionScreen$Watcher.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.packs.PackSelectionScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.recipebook.RecipeBookComponent.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.recipebook.RecipeBookPage.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.CreateWorldScreen$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.CreateWorldScreen$OperationFailedException.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.CreateWorldScreen$SelectedGameMode.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.CreateWorldScreen.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldGenSettingsComponent.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldPreset$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldPreset$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldPreset$3.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldPreset$4.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldPreset$5.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldPreset$6.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldPreset$PresetEditor.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldPreset.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.gui.screens.worldselection.WorldSelectionList.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.main.Main$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.main.Main$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.main.Main$3.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.main.Main.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.model.geom.LayerDefinitions.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.model.geom.ModelLayers.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientChunkCache$Storage.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientChunkCache.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientHandshakePacketListenerImpl.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientLevel$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientLevel$ClientLevelData.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientLevel$EntityCallbacks.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientLevel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientPacketListener$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ClientPacketListener.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.MultiPlayerGameMode.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.PlayerInfo.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ServerData$ServerPackStatus.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ServerData.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ServerStatusPinger$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ServerStatusPinger$2$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ServerStatusPinger$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.multiplayer.ServerStatusPinger.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.BreakingItemParticle$Provider.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.BreakingItemParticle$SlimeProvider.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.BreakingItemParticle$SnowballProvider.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.BreakingItemParticle.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.Particle.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.ParticleEngine$MutableSpriteSet.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.ParticleEngine$SpriteParticleRegistration.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.ParticleEngine.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.TerrainParticle$Provider.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.particle.TerrainParticle.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.player.AbstractClientPlayer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.player.LocalPlayer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.player.RemotePlayer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.DimensionSpecialEffects$EndEffects.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.DimensionSpecialEffects$NetherEffects.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.DimensionSpecialEffects$OverworldEffects.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.DimensionSpecialEffects$SkyType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.DimensionSpecialEffects.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.EffectInstance.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.FogRenderer$FogMode.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.FogRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.GameRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ItemBlockRenderTypes.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ItemInHandRenderer$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ItemInHandRenderer$HandRenderSelection.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ItemInHandRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ItemModelShaper.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.LevelRenderer$RenderChunkInfo.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.LevelRenderer$RenderChunkStorage.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.LevelRenderer$RenderInfoMap.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.LevelRenderer$TransparencyShaderException.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.LevelRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.LightTexture.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.OutlineBufferSource$EntityOutlineGenerator.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.OutlineBufferSource.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.PostChain.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$CompositeRenderType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$CompositeState$CompositeStateBuilder.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$CompositeState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType$OutlineProperty.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.RenderType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ScreenEffectRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ShaderInstance$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ShaderInstance.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.Sheets$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.Sheets.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.SpriteCoordinateExpander.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.ViewArea.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.BlockModelShaper.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.BlockRenderDispatcher$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.BlockRenderDispatcher.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.LiquidBlockRenderer$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.LiquidBlockRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer$AdjacencyInfo.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer$AmbientOcclusionFace.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer$AmbientVertexRemap.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer$Cache$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer$Cache$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer$Cache.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer$SizeInfo.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.ModelBlockRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.BakedQuad.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.BlockModel$Deserializer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.BlockModel$GuiLight.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.BlockModel$LoopException.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.BlockModel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.FaceBakery$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.FaceBakery.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemModelGenerator$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemModelGenerator$Span.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemModelGenerator$SpanFacing.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemModelGenerator.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemOverrides$BakedOverride.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemOverrides$PropertyMatcher.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemOverrides.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemTransform$Deserializer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemTransform.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemTransforms$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemTransforms$Deserializer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemTransforms$TransformType.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.ItemTransforms.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.MultiVariant$Deserializer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.block.model.MultiVariant.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.blockentity.BlockEntityRenderers.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.blockentity.ChestRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.blockentity.PistonHeadRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.blockentity.SkullBlockRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$ChunkTaskResult.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$CompiledChunk$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$CompiledChunk.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$RenderChunk$ChunkCompileTask.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$RenderChunk$RebuildTask.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$RenderChunk$ResortTransparencyTask.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$RenderChunk.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.chunk.ChunkRenderDispatcher.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.BoatRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.EntityRenderDispatcher.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.EntityRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.FallingBlockRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.ItemEntityRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.ItemFrameRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.ItemRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.LivingEntityRenderer$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.LivingEntityRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.layers.ElytraLayer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.layers.HumanoidArmorLayer$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.layers.HumanoidArmorLayer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.entity.player.PlayerRenderer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.item.ItemProperties$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.item.ItemProperties$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.item.ItemProperties$CompassWobble.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.item.ItemProperties.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.AbstractTexture.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.MipmapGenerator.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.Stitcher$Holder.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.Stitcher$Region.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.Stitcher$SpriteLoader.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.Stitcher.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.TextureAtlas$Preparations.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.TextureAtlas.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.TextureAtlasSprite$AnimatedTexture.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.TextureAtlasSprite$FrameInfo.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.TextureAtlasSprite$Info.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.TextureAtlasSprite$InterpolationData.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.TextureAtlasSprite.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.texture.TextureManager.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.language.ClientLanguage.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.language.I18n.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.language.LanguageInfo.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.BakedModel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.ModelBakery$BlockStateDefinitionException.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.ModelBakery$ModelGroupKey.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.ModelBakery.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.ModelManager.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.ModelResourceLocation.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.ModelState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.MultiPartBakedModel$Builder.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.MultiPartBakedModel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.SimpleBakedModel$Builder.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.SimpleBakedModel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.WeightedBakedModel$Builder.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.model.WeightedBakedModel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.sounds.SoundInstance$Attenuation.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.resources.sounds.SoundInstance.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.server.IntegratedPlayerList.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.server.IntegratedServer.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.server.LanServerDetection$LanServerDetector.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.server.LanServerDetection$LanServerList.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.server.LanServerDetection.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.server.LanServerPinger.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.sounds.SoundEngine$DeviceCheckState.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.sounds.SoundEngine.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.commands.CommandSource$1.binpatch
+    Checksum: 134fa2ac Exists: true
+  Reading patch net.minecraft.commands.CommandSource.binpatch
+    Checksum: 9531898a Exists: true
+  Reading patch net.minecraft.commands.CommandSourceStack.binpatch
+    Checksum: 1b79604b Exists: true
+  Reading patch net.minecraft.commands.Commands$CommandSelection.binpatch
+    Checksum: 2edb4d27 Exists: true
+  Reading patch net.minecraft.commands.Commands$ParseFunction.binpatch
+    Checksum: 424d7f36 Exists: true
+  Reading patch net.minecraft.commands.Commands.binpatch
+    Checksum: 875f5fd2 Exists: true
+  Reading patch net.minecraft.commands.arguments.EntityArgument$Serializer.binpatch
+    Checksum: a34781e7 Exists: true
+  Reading patch net.minecraft.commands.arguments.EntityArgument.binpatch
+    Checksum: 98479023 Exists: true
+  Reading patch net.minecraft.commands.arguments.ObjectiveArgument.binpatch
+    Checksum: 6b2ed96f Exists: true
+  Reading patch net.minecraft.commands.arguments.ResourceLocationArgument.binpatch
+    Checksum: 4eb1bf7d Exists: true
+  Reading patch net.minecraft.commands.arguments.TeamArgument.binpatch
+    Checksum: 6106ccb8 Exists: true
+  Reading patch net.minecraft.commands.arguments.blocks.BlockStateParser.binpatch
+    Checksum: 4adc8275 Exists: true
+  Reading patch net.minecraft.commands.arguments.coordinates.BlockPosArgument.binpatch
+    Checksum: 6db72a30 Exists: true
+  Reading patch net.minecraft.commands.arguments.selector.EntitySelector$1.binpatch
+    Checksum: ab283aad Exists: true
+  Reading patch net.minecraft.commands.arguments.selector.EntitySelector.binpatch
+    Checksum: ffa31476 Exists: true
+  Reading patch net.minecraft.commands.arguments.selector.EntitySelectorParser.binpatch
+    Checksum: 5b8ca972 Exists: true
+  Reading patch net.minecraft.commands.synchronization.ArgumentTypes$Entry.binpatch
+    Checksum: 9d635d7f Exists: true
+  Reading patch net.minecraft.commands.synchronization.ArgumentTypes.binpatch
+    Checksum: 508af758 Exists: true
+  Reading patch net.minecraft.core.Holder$Direct.binpatch
+    Checksum: ef374ce9 Exists: true
+  Reading patch net.minecraft.core.Holder$Kind.binpatch
+    Checksum: a585f080 Exists: true
+  Reading patch net.minecraft.core.Holder$Reference$Type.binpatch
+    Checksum: 41281d6b Exists: true
+  Reading patch net.minecraft.core.Holder$Reference.binpatch
+    Checksum: 29bffc4a Exists: true
+  Reading patch net.minecraft.core.Holder.binpatch
+    Checksum: fd655206 Exists: true
+  Reading patch net.minecraft.core.MappedRegistry.binpatch
+    Checksum: affd5232 Exists: true
+  Reading patch net.minecraft.core.Registry$1.binpatch
+    Checksum: b4ccbe81 Exists: true
+  Reading patch net.minecraft.core.Registry$RegistryBootstrap.binpatch
+    Checksum: 3a848a4b Exists: true
+  Reading patch net.minecraft.core.Registry.binpatch
+    Checksum: adb72162 Exists: true
+  Reading patch net.minecraft.core.RegistryAccess$1.binpatch
+    Checksum: d5b8bd31 Exists: true
+  Reading patch net.minecraft.core.RegistryAccess$Frozen.binpatch
+    Checksum: 929a7255 Exists: true
+  Reading patch net.minecraft.core.RegistryAccess$ImmutableRegistryAccess.binpatch
+    Checksum: 6e84827e Exists: true
+  Reading patch net.minecraft.core.RegistryAccess$RegistryData.binpatch
+    Checksum: d75d845 Exists: true
+  Reading patch net.minecraft.core.RegistryAccess$RegistryEntry.binpatch
+    Checksum: eb5efa63 Exists: true
+  Reading patch net.minecraft.core.RegistryAccess$Writable.binpatch
+    Checksum: 7b93da8f Exists: true
+  Reading patch net.minecraft.core.RegistryAccess$WritableRegistryAccess.binpatch
+    Checksum: f2cade25 Exists: true
+  Reading patch net.minecraft.core.RegistryAccess.binpatch
+    Checksum: b65f3620 Exists: true
+  Reading patch net.minecraft.core.RegistryCodecs$1.binpatch
+    Checksum: c923cea Exists: true
+  Reading patch net.minecraft.core.RegistryCodecs$RegistryEntry.binpatch
+    Checksum: 8d8827e5 Exists: true
+  Reading patch net.minecraft.core.RegistryCodecs.binpatch
+    Checksum: 9d167b7a Exists: true
+  Reading patch net.minecraft.core.cauldron.CauldronInteraction.binpatch
+    Checksum: acfa76b2 Exists: true
+  Reading patch net.minecraft.core.dispenser.AbstractProjectileDispenseBehavior.binpatch
+    Checksum: 410ac471 Exists: true
+  Reading patch net.minecraft.core.dispenser.BoatDispenseItemBehavior.binpatch
+    Checksum: 4729c836 Exists: true
+  Reading patch net.minecraft.core.dispenser.DefaultDispenseItemBehavior.binpatch
+    Checksum: a740e1cd Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$1.binpatch
+    Checksum: b67a95a1 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$10.binpatch
+    Checksum: 72f2d5e8 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$11.binpatch
+    Checksum: 7381cfd7 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$12.binpatch
+    Checksum: 1e39fc6f Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$13.binpatch
+    Checksum: 8088ed66 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$14.binpatch
+    Checksum: fce1a1ac Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$15.binpatch
+    Checksum: 43c54888 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$16.binpatch
+    Checksum: a2b4f36e Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$17.binpatch
+    Checksum: f5e6fae1 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$18.binpatch
+    Checksum: 3402d03a Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$19.binpatch
+    Checksum: 4faea0f5 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$2.binpatch
+    Checksum: 4825a972 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$20.binpatch
+    Checksum: 66294461 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$21.binpatch
+    Checksum: 81d60aab Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$22.binpatch
+    Checksum: 1130cc6b Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$23.binpatch
+    Checksum: 92ee40f7 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$24.binpatch
+    Checksum: 10b46aa Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$25.binpatch
+    Checksum: cd950112 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$26.binpatch
+    Checksum: 35eff32e Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$3.binpatch
+    Checksum: a50e9c75 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$4.binpatch
+    Checksum: e50482a4 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$5.binpatch
+    Checksum: 8ea4816b Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$6.binpatch
+    Checksum: 5402abd6 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$7$1.binpatch
+    Checksum: 57ee0cc0 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$7.binpatch
+    Checksum: d8d1f584 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$8$1.binpatch
+    Checksum: 4e430d1a Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$8.binpatch
+    Checksum: 422f5dc Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior$9.binpatch
+    Checksum: 170bfb3 Exists: true
+  Reading patch net.minecraft.core.dispenser.DispenseItemBehavior.binpatch
+    Checksum: 25112e20 Exists: true
+  Reading patch net.minecraft.core.dispenser.ShearsDispenseItemBehavior.binpatch
+    Checksum: c06590b1 Exists: true
+  Reading patch net.minecraft.core.dispenser.ShulkerBoxDispenseBehavior.binpatch
+    Checksum: 5de140f7 Exists: true
+  Reading patch net.minecraft.core.particles.BlockParticleOption$1.binpatch
+    Checksum: 78c2bb9d Exists: true
+  Reading patch net.minecraft.core.particles.BlockParticleOption.binpatch
+    Checksum: b687b4a5 Exists: true
+  Reading patch net.minecraft.core.particles.ItemParticleOption$1.binpatch
+    Checksum: dfabe1d1 Exists: true
+  Reading patch net.minecraft.core.particles.ItemParticleOption.binpatch
+    Checksum: 22ca7d91 Exists: true
+  Reading patch net.minecraft.core.particles.ParticleType.binpatch
+    Checksum: 473d821d Exists: true
+  Reading patch net.minecraft.core.particles.ParticleTypes$1.binpatch
+    Checksum: 2d5cb51 Exists: true
+  Reading patch net.minecraft.core.particles.ParticleTypes.binpatch
+    Checksum: fdd25fd0 Exists: true
+  Reading patch net.minecraft.data.BuiltinRegistries.binpatch
+    Checksum: dfab5065 Exists: true
+  Reading patch net.minecraft.data.DataGenerator.binpatch
+    Checksum: aa5951d9 Exists: true
+  Reading patch net.minecraft.data.HashCache.binpatch
+    Checksum: 1f21a314 Exists: true
+  Reading patch net.minecraft.data.Main.binpatch
+    Checksum: 392686b2 Exists: true
+  Reading patch net.minecraft.data.advancements.AdvancementProvider.binpatch
+    Checksum: 75217420 Exists: true
+  Reading patch net.minecraft.data.loot.BlockLoot.binpatch
+    Checksum: 41753d12 Exists: true
+  Reading patch net.minecraft.data.loot.EntityLoot.binpatch
+    Checksum: 8ae188d4 Exists: true
+  Reading patch net.minecraft.data.loot.LootTableProvider.binpatch
+    Checksum: 5e30782 Exists: true
+  Reading patch net.minecraft.data.recipes.RecipeProvider.binpatch
+    Checksum: b2706bd0 Exists: true
+  Reading patch net.minecraft.data.tags.BiomeTagsProvider.binpatch
+    Checksum: 91c962e6 Exists: true
+  Reading patch net.minecraft.data.tags.BlockTagsProvider.binpatch
+    Checksum: bd7295c Exists: true
+  Reading patch net.minecraft.data.tags.ConfiguredStructureTagsProvider.binpatch
+    Checksum: 5e3fb2b5 Exists: true
+  Reading patch net.minecraft.data.tags.EntityTypeTagsProvider.binpatch
+    Checksum: 7c6dc49c Exists: true
+  Reading patch net.minecraft.data.tags.FluidTagsProvider.binpatch
+    Checksum: a7c1a3e4 Exists: true
+  Reading patch net.minecraft.data.tags.GameEventTagsProvider.binpatch
+    Checksum: 5ce69d2a Exists: true
+  Reading patch net.minecraft.data.tags.ItemTagsProvider.binpatch
+    Checksum: 37b09089 Exists: true
+  Reading patch net.minecraft.data.tags.TagsProvider$TagAppender.binpatch
+    Checksum: 94745348 Exists: true
+  Reading patch net.minecraft.data.tags.TagsProvider.binpatch
+    Checksum: 201cbc7 Exists: true
+  Reading patch net.minecraft.data.worldgen.biome.OverworldBiomes.binpatch
+    Checksum: c6a54997 Exists: true
+  Reading patch net.minecraft.gametest.framework.GameTest.binpatch
+    Checksum: 7d64a40c Exists: true
+  Reading patch net.minecraft.gametest.framework.GameTestRegistry.binpatch
+    Checksum: aae8be4e Exists: true
+  Reading patch net.minecraft.gametest.framework.GameTestServer$1.binpatch
+    Checksum: 5c0675be Exists: true
+  Reading patch net.minecraft.gametest.framework.GameTestServer.binpatch
+    Checksum: fb571d56 Exists: true
+  Reading patch net.minecraft.gametest.framework.StructureUtils$1.binpatch
+    Checksum: 7b09c8d6 Exists: true
+  Reading patch net.minecraft.gametest.framework.StructureUtils.binpatch
+    Checksum: c83b5db3 Exists: true
+  Reading patch net.minecraft.locale.Language$1.binpatch
+    Checksum: 8d6d5e40 Exists: true
+  Reading patch net.minecraft.locale.Language.binpatch
+    Checksum: d1f2d687 Exists: true
+  Reading patch net.minecraft.nbt.CompoundTag$1.binpatch
+    Checksum: eef77dda Exists: true
+  Reading patch net.minecraft.nbt.CompoundTag$2.binpatch
+    Checksum: d13515d9 Exists: true
+  Reading patch net.minecraft.nbt.CompoundTag.binpatch
+    Checksum: 2074dffe Exists: true
+  Reading patch net.minecraft.nbt.NbtAccounter$1.binpatch
+    Checksum: 700606a Exists: true
+  Reading patch net.minecraft.nbt.NbtAccounter.binpatch
+    Checksum: 16b83883 Exists: true
+  Reading patch net.minecraft.nbt.NbtIo$1.binpatch
+    Checksum: 3cb9bc1e Exists: true
+  Reading patch net.minecraft.nbt.NbtIo.binpatch
+    Checksum: ac6702d7 Exists: true
+  Reading patch net.minecraft.nbt.StringTag$1.binpatch
+    Checksum: 30da0d6c Exists: true
+  Reading patch net.minecraft.nbt.StringTag.binpatch
+    Checksum: 74e28539 Exists: true
+  Reading patch net.minecraft.nbt.TagParser.binpatch
+    Checksum: 4329b1e3 Exists: true
+  Reading patch net.minecraft.network.CompressionEncoder.binpatch
+    Checksum: 3b58f971 Exists: true
+  Reading patch net.minecraft.network.Connection$1.binpatch
+    Checksum: 5e35725f Exists: true
+  Reading patch net.minecraft.network.Connection$2.binpatch
+    Checksum: fd09314f Exists: true
+  Reading patch net.minecraft.network.Connection$PacketHolder.binpatch
+    Checksum: e2d75dbd Exists: true
+  Reading patch net.minecraft.network.Connection.binpatch
+    Checksum: c86e2a91 Exists: true
+  Reading patch net.minecraft.network.FriendlyByteBuf.binpatch
+    Checksum: 7d4a80c2 Exists: true
+  Reading patch net.minecraft.network.chat.Component$Serializer.binpatch
+    Checksum: 13a9b21 Exists: true
+  Reading patch net.minecraft.network.chat.Component.binpatch
+    Checksum: cc208ac8 Exists: true
+  Reading patch net.minecraft.network.chat.Style$1.binpatch
+    Checksum: defbb6f0 Exists: true
+  Reading patch net.minecraft.network.chat.Style$Serializer.binpatch
+    Checksum: fe704a02 Exists: true
+  Reading patch net.minecraft.network.chat.Style.binpatch
+    Checksum: daba4df2 Exists: true
+  Reading patch net.minecraft.network.chat.TextColor.binpatch
+    Checksum: b94c8db3 Exists: true
+  Reading patch net.minecraft.network.chat.TranslatableComponent.binpatch
+    Checksum: a48de5f6 Exists: true
+  Reading patch net.minecraft.network.protocol.PacketUtils.binpatch
+    Checksum: 4b7d0521 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ClientboundChatPacket.binpatch
+    Checksum: e9e47e62 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ClientboundCustomPayloadPacket.binpatch
+    Checksum: 6d04e9d1 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ClientboundInitializeBorderPacket.binpatch
+    Checksum: 141a54c Exists: true
+  Reading patch net.minecraft.network.protocol.game.ClientboundSectionBlocksUpdatePacket.binpatch
+    Checksum: c2e336fa Exists: true
+  Reading patch net.minecraft.network.protocol.game.ClientboundSetBorderCenterPacket.binpatch
+    Checksum: 51c7df8d Exists: true
+  Reading patch net.minecraft.network.protocol.game.ClientboundSetDefaultSpawnPositionPacket.binpatch
+    Checksum: 2a3af447 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundChatPacket.binpatch
+    Checksum: b8e6d09e Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundContainerClickPacket.binpatch
+    Checksum: f2817a58 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.binpatch
+    Checksum: 31a8aeac Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.binpatch
+    Checksum: 5694a173 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$PosRot.binpatch
+    Checksum: 943cd5d6 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Rot.binpatch
+    Checksum: bbdd94aa Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$StatusOnly.binpatch
+    Checksum: c8e872be Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.binpatch
+    Checksum: 327960dd Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundResourcePackPacket$Action.binpatch
+    Checksum: 1821896b Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundResourcePackPacket.binpatch
+    Checksum: 5fde22d7 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundSetCreativeModeSlotPacket.binpatch
+    Checksum: 1dc60d16 Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.binpatch
+    Checksum: cad4314c Exists: true
+  Reading patch net.minecraft.network.protocol.game.ServerboundUseItemPacket.binpatch
+    Checksum: c107d2e0 Exists: true
+  Reading patch net.minecraft.network.protocol.handshake.ClientIntentionPacket.binpatch
+    Checksum: b674c46b Exists: true
+  Reading patch net.minecraft.network.protocol.login.ClientboundCustomQueryPacket.binpatch
+    Checksum: 34bcc053 Exists: true
+  Reading patch net.minecraft.network.protocol.login.ServerboundCustomQueryPacket.binpatch
+    Checksum: 8ee39e17 Exists: true
+  Reading patch net.minecraft.network.protocol.status.ClientboundStatusResponsePacket.binpatch
+    Checksum: d865f182 Exists: true
+  Reading patch net.minecraft.network.protocol.status.ServerStatus$Players$Serializer.binpatch
+    Checksum: a3ec68c3 Exists: true
+  Reading patch net.minecraft.network.protocol.status.ServerStatus$Players.binpatch
+    Checksum: 3350044b Exists: true
+  Reading patch net.minecraft.network.protocol.status.ServerStatus$Serializer.binpatch
+    Checksum: dbe59e8a Exists: true
+  Reading patch net.minecraft.network.protocol.status.ServerStatus$Version$Serializer.binpatch
+    Checksum: 9274946 Exists: true
+  Reading patch net.minecraft.network.protocol.status.ServerStatus$Version.binpatch
+    Checksum: 2d83cc04 Exists: true
+  Reading patch net.minecraft.network.protocol.status.ServerStatus.binpatch
+    Checksum: a50d2b67 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$1.binpatch
+    Checksum: 52c19c9a Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$10.binpatch
+    Checksum: 71b47154 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$11.binpatch
+    Checksum: 7e61d4cb Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$12.binpatch
+    Checksum: 62b5cf50 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$13.binpatch
+    Checksum: c0cdadd1 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$14.binpatch
+    Checksum: 7952c954 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$15.binpatch
+    Checksum: b6a379ea Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$16.binpatch
+    Checksum: 9c07d5d6 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$17.binpatch
+    Checksum: 27b9be43 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$18.binpatch
+    Checksum: 27b0d32b Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$19.binpatch
+    Checksum: 9aa1d54a Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$2.binpatch
+    Checksum: 24d5aa29 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$3.binpatch
+    Checksum: 7f86a1e8 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$4.binpatch
+    Checksum: 14c5a38f Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$5.binpatch
+    Checksum: 2b29ece1 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$6.binpatch
+    Checksum: 1287d255 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$7.binpatch
+    Checksum: f5bee951 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$8.binpatch
+    Checksum: fa8300cb Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers$9.binpatch
+    Checksum: b280ae94 Exists: true
+  Reading patch net.minecraft.network.syncher.EntityDataSerializers.binpatch
+    Checksum: 86c642a4 Exists: true
+  Reading patch net.minecraft.network.syncher.SynchedEntityData$DataItem.binpatch
+    Checksum: 754b13f7 Exists: true
+  Reading patch net.minecraft.network.syncher.SynchedEntityData.binpatch
+    Checksum: 84c3a79e Exists: true
+  Reading patch net.minecraft.recipebook.PlaceRecipe.binpatch
+    Checksum: 32b5adab Exists: true
+  Reading patch net.minecraft.resources.RegistryResourceAccess$1.binpatch
+    Checksum: 96afa88b Exists: true
+  Reading patch net.minecraft.resources.RegistryResourceAccess$InMemoryStorage$Entry.binpatch
+    Checksum: c62a1e2b Exists: true
+  Reading patch net.minecraft.resources.RegistryResourceAccess$InMemoryStorage.binpatch
+    Checksum: 1cb89894 Exists: true
+  Reading patch net.minecraft.resources.RegistryResourceAccess$ParsedEntry.binpatch
+    Checksum: 2ffbbfa Exists: true
+  Reading patch net.minecraft.resources.RegistryResourceAccess.binpatch
+    Checksum: 6b5d36fc Exists: true
+  Reading patch net.minecraft.resources.ResourceKey.binpatch
+    Checksum: d9f58433 Exists: true
+  Reading patch net.minecraft.resources.ResourceLocation$Serializer.binpatch
+    Checksum: 9d636992 Exists: true
+  Reading patch net.minecraft.resources.ResourceLocation.binpatch
+    Checksum: e9123685 Exists: true
+  Reading patch net.minecraft.server.Bootstrap$1.binpatch
+    Checksum: 1a0ae5e7 Exists: true
+  Reading patch net.minecraft.server.Bootstrap.binpatch
+    Checksum: f6cda4c0 Exists: true
+  Reading patch net.minecraft.server.Eula.binpatch
+    Checksum: b1d98a32 Exists: true
+  Reading patch net.minecraft.server.LoggedPrintStream.binpatch
+    Checksum: 5aeb26b8 Exists: true
+  Reading patch net.minecraft.server.Main$1.binpatch
+    Checksum: d7a8bd22 Exists: true
+  Reading patch net.minecraft.server.Main.binpatch
+    Checksum: 88b513f1 Exists: true
+  Reading patch net.minecraft.server.MinecraftServer$1.binpatch
+    Checksum: b02a42ac Exists: true
+  Reading patch net.minecraft.server.MinecraftServer$ReloadableResources.binpatch
+    Checksum: f63f421a Exists: true
+  Reading patch net.minecraft.server.MinecraftServer$RollingAverage.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.server.MinecraftServer$TimeProfiler$1.binpatch
+    Checksum: 72c385ee Exists: true
+  Reading patch net.minecraft.server.MinecraftServer$TimeProfiler.binpatch
+    Checksum: f690cb0d Exists: true
+  Reading patch net.minecraft.server.MinecraftServer.binpatch
+    Checksum: 17184b49 Exists: true
+  Reading patch net.minecraft.server.PlayerAdvancements$1.binpatch
+    Checksum: a643ad84 Exists: true
+  Reading patch net.minecraft.server.PlayerAdvancements.binpatch
+    Checksum: fcc2968b Exists: true
+  Reading patch net.minecraft.server.ReloadableServerResources.binpatch
+    Checksum: 2d802734 Exists: true
+  Reading patch net.minecraft.server.ServerAdvancementManager.binpatch
+    Checksum: 621b8c2d Exists: true
+  Reading patch net.minecraft.server.ServerScoreboard$Method.binpatch
+    Checksum: 39792351 Exists: true
+  Reading patch net.minecraft.server.ServerScoreboard.binpatch
+    Checksum: 88baa736 Exists: true
+  Reading patch net.minecraft.server.bossevents.CustomBossEvent.binpatch
+    Checksum: ea87e992 Exists: true
+  Reading patch net.minecraft.server.commands.DebugCommand$Tracer.binpatch
+    Checksum: e1208755 Exists: true
+  Reading patch net.minecraft.server.commands.DebugCommand.binpatch
+    Checksum: b5dcb34f Exists: true
+  Reading patch net.minecraft.server.commands.DifficultyCommand.binpatch
+    Checksum: 2f7c3aaf Exists: true
+  Reading patch net.minecraft.server.commands.EffectCommands.binpatch
+    Checksum: 38e4e137 Exists: true
+  Reading patch net.minecraft.server.commands.GameRuleCommand$1.binpatch
+    Checksum: ebef415f Exists: true
+  Reading patch net.minecraft.server.commands.GameRuleCommand.binpatch
+    Checksum: b22694a8 Exists: true
+  Reading patch net.minecraft.server.commands.GiveCommand.binpatch
+    Checksum: 6bbacf7e Exists: true
+  Reading patch net.minecraft.server.commands.ListPlayersCommand.binpatch
+    Checksum: e91abda1 Exists: true
+  Reading patch net.minecraft.server.commands.LootCommand$Callback.binpatch
+    Checksum: 14c1956c Exists: true
+  Reading patch net.minecraft.server.commands.LootCommand$DropConsumer.binpatch
+    Checksum: a8800c04 Exists: true
+  Reading patch net.minecraft.server.commands.LootCommand$TailProvider.binpatch
+    Checksum: ab7e142c Exists: true
+  Reading patch net.minecraft.server.commands.LootCommand.binpatch
+    Checksum: 959a9637 Exists: true
+  Reading patch net.minecraft.server.commands.ReloadCommand.binpatch
+    Checksum: a07f1d01 Exists: true
+  Reading patch net.minecraft.server.commands.ScheduleCommand.binpatch
+    Checksum: 8db5659f Exists: true
+  Reading patch net.minecraft.server.commands.SpreadPlayersCommand$Position.binpatch
+    Checksum: 1cd92523 Exists: true
+  Reading patch net.minecraft.server.commands.SpreadPlayersCommand.binpatch
+    Checksum: fbb6da25 Exists: true
+  Reading patch net.minecraft.server.commands.TeleportCommand$LookAt.binpatch
+    Checksum: 3ad9562d Exists: true
+  Reading patch net.minecraft.server.commands.TeleportCommand.binpatch
+    Checksum: 5eb655e Exists: true
+  Reading patch net.minecraft.server.commands.TimeCommand.binpatch
+    Checksum: 8f117b0b Exists: true
+  Reading patch net.minecraft.server.commands.TriggerCommand.binpatch
+    Checksum: 3ac35470 Exists: true
+  Reading patch net.minecraft.server.commands.WorldBorderCommand.binpatch
+    Checksum: 31fc5099 Exists: true
+  Reading patch net.minecraft.server.dedicated.DedicatedServer$1.binpatch
+    Checksum: 8666c7d7 Exists: true
+  Reading patch net.minecraft.server.dedicated.DedicatedServer.binpatch
+    Checksum: 2d507a7d Exists: true
+  Reading patch net.minecraft.server.dedicated.DedicatedServerProperties$WorldGenProperties.binpatch
+    Checksum: 141718ec Exists: true
+  Reading patch net.minecraft.server.dedicated.DedicatedServerProperties.binpatch
+    Checksum: a4767ce9 Exists: true
+  Reading patch net.minecraft.server.dedicated.ServerWatchdog$1.binpatch
+    Checksum: 74a7bcc6 Exists: true
+  Reading patch net.minecraft.server.dedicated.ServerWatchdog.binpatch
+    Checksum: 680d1863 Exists: true
+  Reading patch net.minecraft.server.dedicated.Settings$MutableValue.binpatch
+    Checksum: 65053d43 Exists: true
+  Reading patch net.minecraft.server.dedicated.Settings.binpatch
+    Checksum: 87655a62 Exists: true
+  Reading patch net.minecraft.server.gui.MinecraftServerGui$1.binpatch
+    Checksum: ed1195ee Exists: true
+  Reading patch net.minecraft.server.gui.MinecraftServerGui$2.binpatch
+    Checksum: 75b1ca05 Exists: true
+  Reading patch net.minecraft.server.gui.MinecraftServerGui.binpatch
+    Checksum: e22849ba Exists: true
+  Reading patch net.minecraft.server.level.ChunkHolder$1.binpatch
+    Checksum: ac2c7ec3 Exists: true
+  Reading patch net.minecraft.server.level.ChunkHolder$ChunkLoadingFailure$1.binpatch
+    Checksum: e343a30d Exists: true
+  Reading patch net.minecraft.server.level.ChunkHolder$ChunkLoadingFailure.binpatch
+    Checksum: 3778c4c Exists: true
+  Reading patch net.minecraft.server.level.ChunkHolder$ChunkSaveDebug.binpatch
+    Checksum: 2f14fd5b Exists: true
+  Reading patch net.minecraft.server.level.ChunkHolder$FullChunkStatus.binpatch
+    Checksum: ead37efb Exists: true
+  Reading patch net.minecraft.server.level.ChunkHolder$LevelChangeListener.binpatch
+    Checksum: 68e889ce Exists: true
+  Reading patch net.minecraft.server.level.ChunkHolder$PlayerProvider.binpatch
+    Checksum: e7d985b5 Exists: true
+  Reading patch net.minecraft.server.level.ChunkHolder.binpatch
+    Checksum: 719ea44 Exists: true
+  Reading patch net.minecraft.server.level.ChunkMap$1.binpatch
+    Checksum: 3bd4a357 Exists: true
+  Reading patch net.minecraft.server.level.ChunkMap$2.binpatch
+    Checksum: 762f06b6 Exists: true
+  Reading patch net.minecraft.server.level.ChunkMap$CallbackExecutor.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.server.level.ChunkMap$DistanceManager.binpatch
+    Checksum: 13c28f94 Exists: true
+  Reading patch net.minecraft.server.level.ChunkMap$TrackedEntity.binpatch
+    Checksum: 4a6c4225 Exists: true
+  Reading patch net.minecraft.server.level.ChunkMap.binpatch
+    Checksum: bd917e95 Exists: true
+  Reading patch net.minecraft.server.level.DistanceManager$ChunkTicketTracker.binpatch
+    Checksum: cc5b461f Exists: true
+  Reading patch net.minecraft.server.level.DistanceManager$FixedPlayerDistanceChunkTracker.binpatch
+    Checksum: bf989d35 Exists: true
+  Reading patch net.minecraft.server.level.DistanceManager$PlayerTicketTracker.binpatch
+    Checksum: 3634be3 Exists: true
+  Reading patch net.minecraft.server.level.DistanceManager.binpatch
+    Checksum: 2cdf8d62 Exists: true
+  Reading patch net.minecraft.server.level.ServerBossEvent.binpatch
+    Checksum: 8a366b2f Exists: true
+  Reading patch net.minecraft.server.level.ServerChunkCache$ChunkAndHolder.binpatch
+    Checksum: 9420ee1e Exists: true
+  Reading patch net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.binpatch
+    Checksum: e4b7cdea Exists: true
+  Reading patch net.minecraft.server.level.ServerChunkCache.binpatch
+    Checksum: 96412e4b Exists: true
+  Reading patch net.minecraft.server.level.ServerEntity.binpatch
+    Checksum: cc3798a1 Exists: true
+  Reading patch net.minecraft.server.level.ServerLevel$EntityCallbacks.binpatch
+    Checksum: d659e29 Exists: true
+  Reading patch net.minecraft.server.level.ServerLevel.binpatch
+    Checksum: a40371bd Exists: true
+  Reading patch net.minecraft.server.level.ServerPlayer$1.binpatch
+    Checksum: c4de3261 Exists: true
+  Reading patch net.minecraft.server.level.ServerPlayer$2.binpatch
+    Checksum: ac9c364d Exists: true
+  Reading patch net.minecraft.server.level.ServerPlayer$3.binpatch
+    Checksum: 92d4bb04 Exists: true
+  Reading patch net.minecraft.server.level.ServerPlayer.binpatch
+    Checksum: b6e0ebe Exists: true
+  Reading patch net.minecraft.server.level.ServerPlayerGameMode.binpatch
+    Checksum: 7dbdd6f1 Exists: true
+  Reading patch net.minecraft.server.level.Ticket.binpatch
+    Checksum: 2e7512e2 Exists: true
+  Reading patch net.minecraft.server.level.TicketType.binpatch
+    Checksum: aa401904 Exists: true
+  Reading patch net.minecraft.server.level.WorldGenRegion.binpatch
+    Checksum: 46edb173 Exists: true
+  Reading patch net.minecraft.server.network.LegacyQueryHandler.binpatch
+    Checksum: 518fd050 Exists: true
+  Reading patch net.minecraft.server.network.MemoryServerHandshakePacketListenerImpl.binpatch
+    Checksum: fbf9c2f5 Exists: true
+  Reading patch net.minecraft.server.network.ServerConnectionListener$1.binpatch
+    Checksum: 231f96c8 Exists: true
+  Reading patch net.minecraft.server.network.ServerConnectionListener$2.binpatch
+    Checksum: fdd2fc7 Exists: true
+  Reading patch net.minecraft.server.network.ServerConnectionListener$LatencySimulator$DelayedMessage.binpatch
+    Checksum: 6b25f8cb Exists: true
+  Reading patch net.minecraft.server.network.ServerConnectionListener$LatencySimulator.binpatch
+    Checksum: 22ee4a11 Exists: true
+  Reading patch net.minecraft.server.network.ServerConnectionListener.binpatch
+    Checksum: e94bb104 Exists: true
+  Reading patch net.minecraft.server.network.ServerGamePacketListenerImpl$1.binpatch
+    Checksum: ef0676b6 Exists: true
+  Reading patch net.minecraft.server.network.ServerGamePacketListenerImpl$2.binpatch
+    Checksum: a55f5a9b Exists: true
+  Reading patch net.minecraft.server.network.ServerGamePacketListenerImpl$3.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.server.network.ServerGamePacketListenerImpl$4.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.server.network.ServerGamePacketListenerImpl$5.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.server.network.ServerGamePacketListenerImpl$EntityInteraction.binpatch
+    Checksum: 5190b3ab Exists: true
+  Reading patch net.minecraft.server.network.ServerGamePacketListenerImpl.binpatch
+    Checksum: c5017a76 Exists: true
+  Reading patch net.minecraft.server.network.ServerHandshakePacketListenerImpl$1.binpatch
+    Checksum: 624c6db Exists: true
+  Reading patch net.minecraft.server.network.ServerHandshakePacketListenerImpl.binpatch
+    Checksum: 210a2f88 Exists: true
+  Reading patch net.minecraft.server.network.ServerLoginPacketListenerImpl$1.binpatch
+    Checksum: 97b236dc Exists: true
+  Reading patch net.minecraft.server.network.ServerLoginPacketListenerImpl$LoginHandler$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.server.network.ServerLoginPacketListenerImpl$LoginHandler.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.server.network.ServerLoginPacketListenerImpl$State.binpatch
+    Checksum: 39c09121 Exists: true
+  Reading patch net.minecraft.server.network.ServerLoginPacketListenerImpl.binpatch
+    Checksum: a2f8617 Exists: true
+  Reading patch net.minecraft.server.network.ServerStatusPacketListenerImpl.binpatch
+    Checksum: cc278ae7 Exists: true
+  Reading patch net.minecraft.server.packs.AbstractPackResources.binpatch
+    Checksum: 366b826d Exists: true
+  Reading patch net.minecraft.server.packs.PackResources.binpatch
+    Checksum: 7cbdc64b Exists: true
+  Reading patch net.minecraft.server.packs.VanillaPackResources$1.binpatch
+    Checksum: 3276af7e Exists: true
+  Reading patch net.minecraft.server.packs.VanillaPackResources.binpatch
+    Checksum: 990712e7 Exists: true
+  Reading patch net.minecraft.server.packs.metadata.pack.PackMetadataSection.binpatch
+    Checksum: 6ffee3b7 Exists: true
+  Reading patch net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.binpatch
+    Checksum: 6ec425f2 Exists: true
+  Reading patch net.minecraft.server.packs.repository.Pack$PackConstructor.binpatch
+    Checksum: fb337b63 Exists: true
+  Reading patch net.minecraft.server.packs.repository.Pack$Position.binpatch
+    Checksum: 1832a002 Exists: true
+  Reading patch net.minecraft.server.packs.repository.Pack.binpatch
+    Checksum: 68fd08cb Exists: true
+  Reading patch net.minecraft.server.packs.repository.PackCompatibility.binpatch
+    Checksum: c2a09e77 Exists: true
+  Reading patch net.minecraft.server.packs.repository.PackRepository.binpatch
+    Checksum: 9fe397ca Exists: true
+  Reading patch net.minecraft.server.packs.resources.ReloadableResourceManager.binpatch
+    Checksum: 8b7ddca1 Exists: true
+  Reading patch net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.binpatch
+    Checksum: 3973f991 Exists: true
+  Reading patch net.minecraft.server.players.BanListEntry.binpatch
+    Checksum: 298d318d Exists: true
+  Reading patch net.minecraft.server.players.GameProfileCache$1.binpatch
+    Checksum: 19bb414e Exists: true
+  Reading patch net.minecraft.server.players.GameProfileCache$GameProfileInfo.binpatch
+    Checksum: d39ddd12 Exists: true
+  Reading patch net.minecraft.server.players.GameProfileCache.binpatch
+    Checksum: 1131fa66 Exists: true
+  Reading patch net.minecraft.server.players.OldUsersConverter$1.binpatch
+    Checksum: 32d11c0 Exists: true
+  Reading patch net.minecraft.server.players.OldUsersConverter$2.binpatch
+    Checksum: 305c0af4 Exists: true
+  Reading patch net.minecraft.server.players.OldUsersConverter$3.binpatch
+    Checksum: 399ffca7 Exists: true
+  Reading patch net.minecraft.server.players.OldUsersConverter$4.binpatch
+    Checksum: 10edcf52 Exists: true
+  Reading patch net.minecraft.server.players.OldUsersConverter$5.binpatch
+    Checksum: 59dd0ea1 Exists: true
+  Reading patch net.minecraft.server.players.OldUsersConverter$ConversionError.binpatch
+    Checksum: 8244b3d9 Exists: true
+  Reading patch net.minecraft.server.players.OldUsersConverter.binpatch
+    Checksum: 30116f8a Exists: true
+  Reading patch net.minecraft.server.players.PlayerList$1.binpatch
+    Checksum: 686233c3 Exists: true
+  Reading patch net.minecraft.server.players.PlayerList$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.server.players.PlayerList.binpatch
+    Checksum: e6a92d73 Exists: true
+  Reading patch net.minecraft.server.players.SleepStatus.binpatch
+    Checksum: 2f4b9752 Exists: true
+  Reading patch net.minecraft.server.players.StoredUserEntry.binpatch
+    Checksum: 6aa4d98f Exists: true
+  Reading patch net.minecraft.server.players.StoredUserList.binpatch
+    Checksum: 84cbfbff Exists: true
+  Reading patch net.minecraft.server.players.UserBanListEntry.binpatch
+    Checksum: 1232caeb Exists: true
+  Reading patch net.minecraft.server.rcon.RconConsoleSource.binpatch
+    Checksum: a5d38ed4 Exists: true
+  Reading patch net.minecraft.server.rcon.thread.RconClient.binpatch
+    Checksum: f0371e7 Exists: true
+  Reading patch net.minecraft.sounds.SoundEvent.binpatch
+    Checksum: a94eea07 Exists: true
+  Reading patch net.minecraft.sounds.SoundEvents.binpatch
+    Checksum: 4fcecf14 Exists: true
+  Reading patch net.minecraft.stats.RecipeBookSettings$TypeSettings.binpatch
+    Checksum: a1b4719e Exists: true
+  Reading patch net.minecraft.stats.RecipeBookSettings.binpatch
+    Checksum: a2818960 Exists: true
+  Reading patch net.minecraft.stats.ServerRecipeBook.binpatch
+    Checksum: 8c0106fb Exists: true
+  Reading patch net.minecraft.stats.ServerStatsCounter.binpatch
+    Checksum: 6c9ba3b0 Exists: true
+  Reading patch net.minecraft.stats.StatType.binpatch
+    Checksum: 4ff48589 Exists: true
+  Reading patch net.minecraft.stats.StatsCounter.binpatch
+    Checksum: 3c554431 Exists: true
+  Reading patch net.minecraft.tags.BlockTags.binpatch
+    Checksum: d2bddafc Exists: true
+  Reading patch net.minecraft.tags.FluidTags.binpatch
+    Checksum: 8eb62b16 Exists: true
+  Reading patch net.minecraft.tags.ItemTags.binpatch
+    Checksum: 78a7a984 Exists: true
+  Reading patch net.minecraft.tags.Tag$Builder.binpatch
+    Checksum: 84613a4b Exists: true
+  Reading patch net.minecraft.tags.Tag$BuilderEntry.binpatch
+    Checksum: 1ecae97f Exists: true
+  Reading patch net.minecraft.tags.Tag$ElementEntry.binpatch
+    Checksum: 7894ce26 Exists: true
+  Reading patch net.minecraft.tags.Tag$Entry.binpatch
+    Checksum: 8da99626 Exists: true
+  Reading patch net.minecraft.tags.Tag$OptionalElementEntry.binpatch
+    Checksum: 705bb783 Exists: true
+  Reading patch net.minecraft.tags.Tag$OptionalTagEntry.binpatch
+    Checksum: ae77107b Exists: true
+  Reading patch net.minecraft.tags.Tag$TagEntry.binpatch
+    Checksum: e1fdc237 Exists: true
+  Reading patch net.minecraft.tags.Tag.binpatch
+    Checksum: 37778d7d Exists: true
+  Reading patch net.minecraft.tags.TagLoader.binpatch
+    Checksum: d3292a3 Exists: true
+  Reading patch net.minecraft.tags.TagManager$LoadResult.binpatch
+    Checksum: af5ea7a1 Exists: true
+  Reading patch net.minecraft.tags.TagManager.binpatch
+    Checksum: c3fe242 Exists: true
+  Reading patch net.minecraft.util.datafix.DataFixers$1.binpatch
+    Checksum: f6b080eb Exists: true
+  Reading patch net.minecraft.util.datafix.DataFixers$2.binpatch
+    Checksum: 1a180fc Exists: true
+  Reading patch net.minecraft.util.datafix.DataFixers$3.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.util.datafix.DataFixers.binpatch
+    Checksum: ecb9991d Exists: true
+  Reading patch net.minecraft.util.datafix.fixes.ItemIdFix.binpatch
+    Checksum: e7da56fb Exists: true
+  Reading patch net.minecraft.util.datafix.fixes.ItemSpawnEggFix.binpatch
+    Checksum: d635acd2 Exists: true
+  Reading patch net.minecraft.util.datafix.fixes.ItemStackMapIdFix.binpatch
+    Checksum: f4c4c12f Exists: true
+  Reading patch net.minecraft.util.datafix.fixes.ItemStackTheFlatteningFix.binpatch
+    Checksum: eef730bb Exists: true
+  Reading patch net.minecraft.util.datafix.fixes.StructuresBecomeConfiguredFix$Conversion.binpatch
+    Checksum: 1b57269 Exists: true
+  Reading patch net.minecraft.util.datafix.fixes.StructuresBecomeConfiguredFix.binpatch
+    Checksum: e36b28 Exists: true
+  Reading patch net.minecraft.util.worldupdate.WorldUpgrader.binpatch
+    Checksum: 18d041e1 Exists: true
+  Reading patch net.minecraft.world.CompoundContainer.binpatch
+    Checksum: 6931f248 Exists: true
+  Reading patch net.minecraft.world.Container.binpatch
+    Checksum: 825bc09a Exists: true
+  Reading patch net.minecraft.world.LockCode.binpatch
+    Checksum: f614992e Exists: true
+  Reading patch net.minecraft.world.SimpleContainer.binpatch
+    Checksum: a6710aa0 Exists: true
+  Reading patch net.minecraft.world.damagesource.DamageSource.binpatch
+    Checksum: 1b5020ce Exists: true
+  Reading patch net.minecraft.world.damagesource.IndirectEntityDamageSource.binpatch
+    Checksum: ad82c3bd Exists: true
+  Reading patch net.minecraft.world.effect.MobEffect.binpatch
+    Checksum: a200eaea Exists: true
+  Reading patch net.minecraft.world.effect.MobEffectInstance.binpatch
+    Checksum: 4d5612db Exists: true
+  Reading patch net.minecraft.world.effect.MobEffects$1.binpatch
+    Checksum: 546cd9a5 Exists: true
+  Reading patch net.minecraft.world.effect.MobEffects.binpatch
+    Checksum: dc382e52 Exists: true
+  Reading patch net.minecraft.world.entity.AgeableMob$AgeableMobGroupData.binpatch
+    Checksum: 5f4acb78 Exists: true
+  Reading patch net.minecraft.world.entity.AgeableMob.binpatch
+    Checksum: 6fc11b3e Exists: true
+  Reading patch net.minecraft.world.entity.AreaEffectCloud.binpatch
+    Checksum: 3b8cee00 Exists: true
+  Reading patch net.minecraft.world.entity.Entity$1.binpatch
+    Checksum: c5b9fbea Exists: true
+  Reading patch net.minecraft.world.entity.Entity$MoveFunction.binpatch
+    Checksum: d39366a4 Exists: true
+  Reading patch net.minecraft.world.entity.Entity$MovementEmission.binpatch
+    Checksum: 72c274b4 Exists: true
+  Reading patch net.minecraft.world.entity.Entity$RemovalReason.binpatch
+    Checksum: 60887353 Exists: true
+  Reading patch net.minecraft.world.entity.Entity.binpatch
+    Checksum: dfa1a03 Exists: true
+  Reading patch net.minecraft.world.entity.EntitySelector$MobCanWearArmorEntitySelector.binpatch
+    Checksum: 870574fd Exists: true
+  Reading patch net.minecraft.world.entity.EntitySelector.binpatch
+    Checksum: e0236f33 Exists: true
+  Reading patch net.minecraft.world.entity.EntityType$1.binpatch
+    Checksum: b63b741b Exists: true
+  Reading patch net.minecraft.world.entity.EntityType$Builder.binpatch
+    Checksum: 2aae8fab Exists: true
+  Reading patch net.minecraft.world.entity.EntityType$EntityFactory.binpatch
+    Checksum: fc3ca8a9 Exists: true
+  Reading patch net.minecraft.world.entity.EntityType.binpatch
+    Checksum: 4c9b14f3 Exists: true
+  Reading patch net.minecraft.world.entity.ExperienceOrb.binpatch
+    Checksum: 1afd5be Exists: true
+  Reading patch net.minecraft.world.entity.FlyingMob.binpatch
+    Checksum: 7fa3152d Exists: true
+  Reading patch net.minecraft.world.entity.GlowSquid.binpatch
+    Checksum: bb33ab0b Exists: true
+  Reading patch net.minecraft.world.entity.ItemBasedSteering.binpatch
+    Checksum: 8f44a12d Exists: true
+  Reading patch net.minecraft.world.entity.LightningBolt.binpatch
+    Checksum: ea755bc6 Exists: true
+  Reading patch net.minecraft.world.entity.LivingEntity$1.binpatch
+    Checksum: 5da1bae Exists: true
+  Reading patch net.minecraft.world.entity.LivingEntity$Fallsounds.binpatch
+    Checksum: 1a71b04f Exists: true
+  Reading patch net.minecraft.world.entity.LivingEntity$ProcessableEffect.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.world.entity.LivingEntity.binpatch
+    Checksum: 759a2939 Exists: true
+  Reading patch net.minecraft.world.entity.Mob$1.binpatch
+    Checksum: 2c3dffb1 Exists: true
+  Reading patch net.minecraft.world.entity.Mob.binpatch
+    Checksum: 7057c912 Exists: true
+  Reading patch net.minecraft.world.entity.MobCategory.binpatch
+    Checksum: 3073495d Exists: true
+  Reading patch net.minecraft.world.entity.NeutralMob.binpatch
+    Checksum: 3dfe395f Exists: true
+  Reading patch net.minecraft.world.entity.PathfinderMob.binpatch
+    Checksum: 6b5515f9 Exists: true
+  Reading patch net.minecraft.world.entity.Shearable.binpatch
+    Checksum: 9c033426 Exists: true
+  Reading patch net.minecraft.world.entity.SpawnPlacements$Data.binpatch
+    Checksum: 5d88bda2 Exists: true
+  Reading patch net.minecraft.world.entity.SpawnPlacements$SpawnPredicate.binpatch
+    Checksum: 7fab069a Exists: true
+  Reading patch net.minecraft.world.entity.SpawnPlacements$Type.binpatch
+    Checksum: 3fe1401e Exists: true
+  Reading patch net.minecraft.world.entity.SpawnPlacements.binpatch
+    Checksum: 6ec2fb5b Exists: true
+  Reading patch net.minecraft.world.entity.TamableAnimal.binpatch
+    Checksum: b3dd42a Exists: true
+  Reading patch net.minecraft.world.entity.ai.attributes.Attribute.binpatch
+    Checksum: 5058b640 Exists: true
+  Reading patch net.minecraft.world.entity.ai.attributes.AttributeSupplier$Builder.binpatch
+    Checksum: f15f46b7 Exists: true
+  Reading patch net.minecraft.world.entity.ai.attributes.AttributeSupplier.binpatch
+    Checksum: 4bec7296 Exists: true
+  Reading patch net.minecraft.world.entity.ai.attributes.Attributes.binpatch
+    Checksum: a6c9fcf6 Exists: true
+  Reading patch net.minecraft.world.entity.ai.attributes.DefaultAttributes.binpatch
+    Checksum: da4a1f37 Exists: true
+  Reading patch net.minecraft.world.entity.ai.attributes.RangedAttribute.binpatch
+    Checksum: 49401a0a Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.AssignProfessionFromJobSite.binpatch
+    Checksum: 8fd6fab1 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.BehaviorUtils.binpatch
+    Checksum: 1e4bda85 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.CrossbowAttack$CrossbowState.binpatch
+    Checksum: dcab70d8 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.CrossbowAttack.binpatch
+    Checksum: 500341d5 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.HarvestFarmland.binpatch
+    Checksum: c2ccf5b0 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.InteractWithDoor.binpatch
+    Checksum: 71d8bc4c Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.PrepareRamNearestTarget$RamCandidate.binpatch
+    Checksum: 288917d7 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.PrepareRamNearestTarget.binpatch
+    Checksum: 539089f0 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.ResetProfession.binpatch
+    Checksum: 7c03e109 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.StartAttacking.binpatch
+    Checksum: ff6dbbdb Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.StopAttackingIfTargetInvalid.binpatch
+    Checksum: d8164982 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.VillagerMakeLove.binpatch
+    Checksum: d841d296 Exists: true
+  Reading patch net.minecraft.world.entity.ai.behavior.WorkAtComposter.binpatch
+    Checksum: 7314a337 Exists: true
+  Reading patch net.minecraft.world.entity.ai.control.MoveControl$Operation.binpatch
+    Checksum: b2025a6b Exists: true
+  Reading patch net.minecraft.world.entity.ai.control.MoveControl.binpatch
+    Checksum: dab1d80b Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.BreakDoorGoal.binpatch
+    Checksum: 746e747 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.EatBlockGoal.binpatch
+    Checksum: b5d4b066 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.FollowOwnerGoal.binpatch
+    Checksum: 3cf95e8d Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.MeleeAttackGoal.binpatch
+    Checksum: 3cd735ec Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.PanicGoal.binpatch
+    Checksum: a8341e21 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.RangedBowAttackGoal.binpatch
+    Checksum: 7841692 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.RangedCrossbowAttackGoal$CrossbowState.binpatch
+    Checksum: c58083d0 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.RangedCrossbowAttackGoal.binpatch
+    Checksum: c8ee3a82 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.RemoveBlockGoal.binpatch
+    Checksum: 1d219224 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.RunAroundLikeCrazyGoal.binpatch
+    Checksum: 2ccfe208 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.SitWhenOrderedToGoal.binpatch
+    Checksum: 4d3bbd93 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.TemptGoal.binpatch
+    Checksum: 2fde7b99 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.target.DefendVillageTargetGoal.binpatch
+    Checksum: 3fecdf59 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.target.HurtByTargetGoal.binpatch
+    Checksum: 9cb1d268 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.target.NearestAttackableTargetGoal.binpatch
+    Checksum: b8df6961 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.target.OwnerHurtByTargetGoal.binpatch
+    Checksum: 98904c14 Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.target.OwnerHurtTargetGoal.binpatch
+    Checksum: ce28499b Exists: true
+  Reading patch net.minecraft.world.entity.ai.goal.target.TargetGoal.binpatch
+    Checksum: 59bb76c9 Exists: true
+  Reading patch net.minecraft.world.entity.ai.memory.MemoryModuleType.binpatch
+    Checksum: edcf11d3 Exists: true
+  Reading patch net.minecraft.world.entity.ai.navigation.PathNavigation.binpatch
+    Checksum: b73acb78 Exists: true
+  Reading patch net.minecraft.world.entity.ai.navigation.WallClimberNavigation.binpatch
+    Checksum: 93066723 Exists: true
+  Reading patch net.minecraft.world.entity.ai.sensing.SensorType.binpatch
+    Checksum: afbdc961 Exists: true
+  Reading patch net.minecraft.world.entity.ai.village.VillageSiege$State.binpatch
+    Checksum: ae848f4 Exists: true
+  Reading patch net.minecraft.world.entity.ai.village.VillageSiege.binpatch
+    Checksum: 643871ec Exists: true
+  Reading patch net.minecraft.world.entity.ai.village.poi.PoiType.binpatch
+    Checksum: 2c6d3def Exists: true
+  Reading patch net.minecraft.world.entity.ambient.Bat.binpatch
+    Checksum: 81047921 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Animal.binpatch
+    Checksum: db1f1299 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$1.binpatch
+    Checksum: 30b9dddd Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BaseBeeGoal.binpatch
+    Checksum: 2affb4c1 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeAttackGoal.binpatch
+    Checksum: 5753fe1b Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeBecomeAngryTargetGoal.binpatch
+    Checksum: a1377998 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeEnterHiveGoal.binpatch
+    Checksum: 61a2c2d3 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeGoToHiveGoal.binpatch
+    Checksum: 510dfcd2 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeGoToKnownFlowerGoal.binpatch
+    Checksum: 21d774fd Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeGrowCropGoal.binpatch
+    Checksum: c2c08d22 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeHurtByOtherGoal.binpatch
+    Checksum: a25769ce Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeLocateHiveGoal.binpatch
+    Checksum: 887aa7ce Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeLookControl.binpatch
+    Checksum: 1de81744 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeePollinateGoal.binpatch
+    Checksum: a529f154 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee$BeeWanderGoal.binpatch
+    Checksum: a8d23b5a Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bee.binpatch
+    Checksum: bcc95050 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Bucketable.binpatch
+    Checksum: df68496d Exists: true
+  Reading patch net.minecraft.world.entity.animal.Cat$CatAvoidEntityGoal.binpatch
+    Checksum: 4c2f748b Exists: true
+  Reading patch net.minecraft.world.entity.animal.Cat$CatRelaxOnOwnerGoal.binpatch
+    Checksum: 9ed0170e Exists: true
+  Reading patch net.minecraft.world.entity.animal.Cat$CatTemptGoal.binpatch
+    Checksum: c5c1ab95 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Cat.binpatch
+    Checksum: 881e63c4 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Chicken.binpatch
+    Checksum: 7e6bb687 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Cow.binpatch
+    Checksum: d26f946b Exists: true
+  Reading patch net.minecraft.world.entity.animal.Dolphin$DolphinSwimToTreasureGoal.binpatch
+    Checksum: 5b93b2c Exists: true
+  Reading patch net.minecraft.world.entity.animal.Dolphin$DolphinSwimWithPlayerGoal.binpatch
+    Checksum: 587c7e96 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Dolphin$PlayWithItemsGoal.binpatch
+    Checksum: f4f77682 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Dolphin.binpatch
+    Checksum: 557fb74a Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$DefendTrustedTargetGoal.binpatch
+    Checksum: ae36e8a3 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FaceplantGoal.binpatch
+    Checksum: bc7f2c2c Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxAlertableEntitiesSelector.binpatch
+    Checksum: 3ce3bc8c Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxBehaviorGoal.binpatch
+    Checksum: dfc67649 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxBreedGoal.binpatch
+    Checksum: a27ba62 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxEatBerriesGoal.binpatch
+    Checksum: 24c9f50d Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxFloatGoal.binpatch
+    Checksum: a02ef2b6 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxFollowParentGoal.binpatch
+    Checksum: f46cfea8 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxGroupData.binpatch
+    Checksum: 8a1fcb9f Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxLookAtPlayerGoal.binpatch
+    Checksum: fad95614 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxLookControl.binpatch
+    Checksum: dfe4df06 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxMeleeAttackGoal.binpatch
+    Checksum: ebf2a848 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxMoveControl.binpatch
+    Checksum: 3aabbbfe Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxPanicGoal.binpatch
+    Checksum: d509bf23 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxPounceGoal.binpatch
+    Checksum: 57ae9ca6 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxSearchForItemsGoal.binpatch
+    Checksum: 84061fab Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$FoxStrollThroughVillageGoal.binpatch
+    Checksum: ea041c63 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$PerchAndSearchGoal.binpatch
+    Checksum: ea198e2b Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$SeekShelterGoal.binpatch
+    Checksum: 8059a04f Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$SleepGoal.binpatch
+    Checksum: c4f48337 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$StalkPreyGoal.binpatch
+    Checksum: ccc5bd24 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox$Type.binpatch
+    Checksum: a0b410f9 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Fox.binpatch
+    Checksum: 15b1665b Exists: true
+  Reading patch net.minecraft.world.entity.animal.IronGolem$Crackiness.binpatch
+    Checksum: 897d4d64 Exists: true
+  Reading patch net.minecraft.world.entity.animal.IronGolem.binpatch
+    Checksum: 24d46c23 Exists: true
+  Reading patch net.minecraft.world.entity.animal.MushroomCow$MushroomType.binpatch
+    Checksum: 1aa42cb8 Exists: true
+  Reading patch net.minecraft.world.entity.animal.MushroomCow.binpatch
+    Checksum: be7fa978 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Ocelot$OcelotAvoidEntityGoal.binpatch
+    Checksum: b9c484e9 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Ocelot$OcelotTemptGoal.binpatch
+    Checksum: e96b09a9 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Ocelot.binpatch
+    Checksum: eb272dac Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$Gene.binpatch
+    Checksum: 3b4d4631 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaAttackGoal.binpatch
+    Checksum: 7e3ecf96 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaAvoidGoal.binpatch
+    Checksum: f1406fd2 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaBreedGoal.binpatch
+    Checksum: c5a8fccc Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaHurtByTargetGoal.binpatch
+    Checksum: 3bc08d11 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaLieOnBackGoal.binpatch
+    Checksum: 89042e6e Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaLookAtPlayerGoal.binpatch
+    Checksum: 3294e199 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaMoveControl.binpatch
+    Checksum: dae1c4f0 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaPanicGoal.binpatch
+    Checksum: 25823575 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaRollGoal.binpatch
+    Checksum: f79266c8 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaSitGoal.binpatch
+    Checksum: 8bd5d52f Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda$PandaSneezeGoal.binpatch
+    Checksum: 23390a51 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Panda.binpatch
+    Checksum: 823bb7bd Exists: true
+  Reading patch net.minecraft.world.entity.animal.Parrot$1.binpatch
+    Checksum: 1f2116fe Exists: true
+  Reading patch net.minecraft.world.entity.animal.Parrot$ParrotWanderGoal.binpatch
+    Checksum: 81a7ee90 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Parrot.binpatch
+    Checksum: 76b8bf8b Exists: true
+  Reading patch net.minecraft.world.entity.animal.Pig.binpatch
+    Checksum: 3a46f0e1 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Pufferfish$PufferfishPuffGoal.binpatch
+    Checksum: bcbfd067 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Pufferfish.binpatch
+    Checksum: 246f36a7 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Rabbit$EvilRabbitAttackGoal.binpatch
+    Checksum: bcd0fbd7 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Rabbit$RabbitAvoidEntityGoal.binpatch
+    Checksum: 12e66592 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Rabbit$RabbitGroupData.binpatch
+    Checksum: a9b6a1d9 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Rabbit$RabbitJumpControl.binpatch
+    Checksum: 20e8eb4d Exists: true
+  Reading patch net.minecraft.world.entity.animal.Rabbit$RabbitMoveControl.binpatch
+    Checksum: 43086ca9 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Rabbit$RabbitPanicGoal.binpatch
+    Checksum: 54fc9b4 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Rabbit$RaidGardenGoal.binpatch
+    Checksum: 25707f9f Exists: true
+  Reading patch net.minecraft.world.entity.animal.Rabbit.binpatch
+    Checksum: 5cddcd1b Exists: true
+  Reading patch net.minecraft.world.entity.animal.Sheep$1.binpatch
+    Checksum: 2a670c25 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Sheep$2.binpatch
+    Checksum: 2be3144b Exists: true
+  Reading patch net.minecraft.world.entity.animal.Sheep.binpatch
+    Checksum: 1b79340f Exists: true
+  Reading patch net.minecraft.world.entity.animal.SnowGolem.binpatch
+    Checksum: bd36a7bc Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtleBreedGoal.binpatch
+    Checksum: 15fef9be Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtleGoHomeGoal.binpatch
+    Checksum: 7f6d2092 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtleGoToWaterGoal.binpatch
+    Checksum: 1abaf158 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtleLayEggGoal.binpatch
+    Checksum: d996f2f4 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtleMoveControl.binpatch
+    Checksum: 34df01dd Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtlePanicGoal.binpatch
+    Checksum: 9500666d Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtlePathNavigation.binpatch
+    Checksum: b7f14ddf Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtleRandomStrollGoal.binpatch
+    Checksum: 10130ce1 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle$TurtleTravelGoal.binpatch
+    Checksum: 4fce9d8 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Turtle.binpatch
+    Checksum: 669e72e9 Exists: true
+  Reading patch net.minecraft.world.entity.animal.Wolf$WolfAvoidEntityGoal.binpatch
+    Checksum: 4d10264f Exists: true
+  Reading patch net.minecraft.world.entity.animal.Wolf$WolfPanicGoal.binpatch
+    Checksum: 89ceeaaf Exists: true
+  Reading patch net.minecraft.world.entity.animal.Wolf.binpatch
+    Checksum: 27dd423a Exists: true
+  Reading patch net.minecraft.world.entity.animal.axolotl.Axolotl$AxolotlGroupData.binpatch
+    Checksum: 855b3391 Exists: true
+  Reading patch net.minecraft.world.entity.animal.axolotl.Axolotl$AxolotlLookControl.binpatch
+    Checksum: e4fffe23 Exists: true
+  Reading patch net.minecraft.world.entity.animal.axolotl.Axolotl$AxolotlMoveControl.binpatch
+    Checksum: 1455eba2 Exists: true
+  Reading patch net.minecraft.world.entity.animal.axolotl.Axolotl$AxolotlPathNavigation.binpatch
+    Checksum: 13f606a7 Exists: true
+  Reading patch net.minecraft.world.entity.animal.axolotl.Axolotl$Variant.binpatch
+    Checksum: 91677350 Exists: true
+  Reading patch net.minecraft.world.entity.animal.axolotl.Axolotl.binpatch
+    Checksum: ba33ca8d Exists: true
+  Reading patch net.minecraft.world.entity.animal.goat.Goat.binpatch
+    Checksum: 740b0ffb Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.AbstractHorse$1.binpatch
+    Checksum: 7c5da86c Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.AbstractHorse.binpatch
+    Checksum: 4b95c1d4 Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.Horse$HorseGroupData.binpatch
+    Checksum: 2760cacf Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.Horse.binpatch
+    Checksum: 6beb6cf7 Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.Llama$LlamaAttackWolfGoal.binpatch
+    Checksum: c478f0d4 Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.Llama$LlamaGroupData.binpatch
+    Checksum: 4b0ca432 Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.Llama$LlamaHurtByTargetGoal.binpatch
+    Checksum: 2a3cff13 Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.Llama.binpatch
+    Checksum: 533c343 Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.SkeletonHorse.binpatch
+    Checksum: 4d61d82b Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.SkeletonTrapGoal.binpatch
+    Checksum: 6afca3ee Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.TraderLlama$TraderLlamaDefendWanderingTraderGoal.binpatch
+    Checksum: 99a0a5c0 Exists: true
+  Reading patch net.minecraft.world.entity.animal.horse.TraderLlama.binpatch
+    Checksum: 9c4bc976 Exists: true
+  Reading patch net.minecraft.world.entity.boss.EnderDragonPart.binpatch
+    Checksum: b3ed8d21 Exists: true
+  Reading patch net.minecraft.world.entity.boss.enderdragon.EndCrystal.binpatch
+    Checksum: 6325b1c9 Exists: true
+  Reading patch net.minecraft.world.entity.boss.enderdragon.EnderDragon.binpatch
+    Checksum: f4e49377 Exists: true
+  Reading patch net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager.binpatch
+    Checksum: b0cb1b2c Exists: true
+  Reading patch net.minecraft.world.entity.boss.wither.WitherBoss$WitherDoNothingGoal.binpatch
+    Checksum: e1c02619 Exists: true
+  Reading patch net.minecraft.world.entity.boss.wither.WitherBoss.binpatch
+    Checksum: 8489f4f1 Exists: true
+  Reading patch net.minecraft.world.entity.decoration.ArmorStand$1.binpatch
+    Checksum: 593c99d Exists: true
+  Reading patch net.minecraft.world.entity.decoration.ArmorStand.binpatch
+    Checksum: 74adf43a Exists: true
+  Reading patch net.minecraft.world.entity.decoration.HangingEntity$1.binpatch
+    Checksum: 75adc444 Exists: true
+  Reading patch net.minecraft.world.entity.decoration.HangingEntity.binpatch
+    Checksum: 90b9f4d3 Exists: true
+  Reading patch net.minecraft.world.entity.decoration.ItemFrame$1.binpatch
+    Checksum: 9d070e25 Exists: true
+  Reading patch net.minecraft.world.entity.decoration.ItemFrame$2.binpatch
+    Checksum: fa9cb7a4 Exists: true
+  Reading patch net.minecraft.world.entity.decoration.ItemFrame.binpatch
+    Checksum: 9254ef25 Exists: true
+  Reading patch net.minecraft.world.entity.decoration.LeashFenceKnotEntity.binpatch
+    Checksum: 79915d90 Exists: true
+  Reading patch net.minecraft.world.entity.decoration.Motive.binpatch
+    Checksum: ade1efda Exists: true
+  Reading patch net.minecraft.world.entity.item.FallingBlockEntity.binpatch
+    Checksum: 6a948491 Exists: true
+  Reading patch net.minecraft.world.entity.item.ItemEntity.binpatch
+    Checksum: 2a117eba Exists: true
+  Reading patch net.minecraft.world.entity.item.PrimedTnt.binpatch
+    Checksum: 5377c8a Exists: true
+  Reading patch net.minecraft.world.entity.monster.AbstractSkeleton$1.binpatch
+    Checksum: 4bc50732 Exists: true
+  Reading patch net.minecraft.world.entity.monster.AbstractSkeleton.binpatch
+    Checksum: 3d42097e Exists: true
+  Reading patch net.minecraft.world.entity.monster.CaveSpider.binpatch
+    Checksum: f08ce141 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Creeper.binpatch
+    Checksum: c0bfe27e Exists: true
+  Reading patch net.minecraft.world.entity.monster.CrossbowAttackMob.binpatch
+    Checksum: 49e7c739 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Drowned$DrownedAttackGoal.binpatch
+    Checksum: 3c68125d Exists: true
+  Reading patch net.minecraft.world.entity.monster.Drowned$DrownedGoToBeachGoal.binpatch
+    Checksum: 42b87979 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Drowned$DrownedGoToWaterGoal.binpatch
+    Checksum: 7e8c13a5 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Drowned$DrownedMoveControl.binpatch
+    Checksum: dd2fc47 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Drowned$DrownedSwimUpGoal.binpatch
+    Checksum: d832fabb Exists: true
+  Reading patch net.minecraft.world.entity.monster.Drowned$DrownedTridentAttackGoal.binpatch
+    Checksum: 33598809 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Drowned.binpatch
+    Checksum: 38a27acf Exists: true
+  Reading patch net.minecraft.world.entity.monster.ElderGuardian.binpatch
+    Checksum: cc1b28d Exists: true
+  Reading patch net.minecraft.world.entity.monster.EnderMan$EndermanFreezeWhenLookedAt.binpatch
+    Checksum: bc20316d Exists: true
+  Reading patch net.minecraft.world.entity.monster.EnderMan$EndermanLeaveBlockGoal.binpatch
+    Checksum: b301da6f Exists: true
+  Reading patch net.minecraft.world.entity.monster.EnderMan$EndermanLookForPlayerGoal.binpatch
+    Checksum: 17c255bd Exists: true
+  Reading patch net.minecraft.world.entity.monster.EnderMan$EndermanTakeBlockGoal.binpatch
+    Checksum: 350c7c0f Exists: true
+  Reading patch net.minecraft.world.entity.monster.EnderMan.binpatch
+    Checksum: 3c8d8964 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Evoker$EvokerAttackSpellGoal.binpatch
+    Checksum: 4ebfeec0 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Evoker$EvokerCastingSpellGoal.binpatch
+    Checksum: af128582 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Evoker$EvokerSummonSpellGoal.binpatch
+    Checksum: e0cee60a Exists: true
+  Reading patch net.minecraft.world.entity.monster.Evoker$EvokerWololoSpellGoal.binpatch
+    Checksum: 242aa65d Exists: true
+  Reading patch net.minecraft.world.entity.monster.Evoker.binpatch
+    Checksum: aa356c36 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ghast$GhastLookGoal.binpatch
+    Checksum: 201cd05c Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ghast$GhastMoveControl.binpatch
+    Checksum: 810f98f5 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ghast$GhastShootFireballGoal.binpatch
+    Checksum: fac59c09 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ghast$RandomFloatAroundGoal.binpatch
+    Checksum: c708d63e Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ghast.binpatch
+    Checksum: f7a2fcf9 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Guardian$GuardianAttackGoal.binpatch
+    Checksum: a0413e9a Exists: true
+  Reading patch net.minecraft.world.entity.monster.Guardian$GuardianAttackSelector.binpatch
+    Checksum: c1c2905f Exists: true
+  Reading patch net.minecraft.world.entity.monster.Guardian$GuardianMoveControl.binpatch
+    Checksum: ac469c11 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Guardian.binpatch
+    Checksum: 2008432d Exists: true
+  Reading patch net.minecraft.world.entity.monster.Husk.binpatch
+    Checksum: 539f6428 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Illusioner$IllusionerBlindnessSpellGoal.binpatch
+    Checksum: 49d50858 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Illusioner$IllusionerMirrorSpellGoal.binpatch
+    Checksum: 503d3da8 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Illusioner.binpatch
+    Checksum: ccac92ee Exists: true
+  Reading patch net.minecraft.world.entity.monster.MagmaCube.binpatch
+    Checksum: 5b80ce9d Exists: true
+  Reading patch net.minecraft.world.entity.monster.Monster.binpatch
+    Checksum: a8b8edb4 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$AttackPhase.binpatch
+    Checksum: cf813552 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$PhantomAttackPlayerTargetGoal.binpatch
+    Checksum: 9030ef78 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$PhantomAttackStrategyGoal.binpatch
+    Checksum: 7caa62e5 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$PhantomBodyRotationControl.binpatch
+    Checksum: 3b47f9b8 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$PhantomCircleAroundAnchorGoal.binpatch
+    Checksum: 276d321f Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$PhantomLookControl.binpatch
+    Checksum: 8fe5db3c Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$PhantomMoveControl.binpatch
+    Checksum: 11098530 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$PhantomMoveTargetGoal.binpatch
+    Checksum: 6e003643 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom$PhantomSweepAttackGoal.binpatch
+    Checksum: 6b1bd0ff Exists: true
+  Reading patch net.minecraft.world.entity.monster.Phantom.binpatch
+    Checksum: e15a213f Exists: true
+  Reading patch net.minecraft.world.entity.monster.Pillager.binpatch
+    Checksum: 75475b5c Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ravager$RavagerMeleeAttackGoal.binpatch
+    Checksum: d5230a02 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ravager$RavagerNavigation.binpatch
+    Checksum: 46c64629 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ravager$RavagerNodeEvaluator.binpatch
+    Checksum: 387c3452 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Ravager.binpatch
+    Checksum: ddf2e07f Exists: true
+  Reading patch net.minecraft.world.entity.monster.Shulker$ShulkerAttackGoal.binpatch
+    Checksum: 35bc8a8d Exists: true
+  Reading patch net.minecraft.world.entity.monster.Shulker$ShulkerBodyRotationControl.binpatch
+    Checksum: da6ab5d3 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Shulker$ShulkerDefenseAttackGoal.binpatch
+    Checksum: 1d89e1d8 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Shulker$ShulkerLookControl.binpatch
+    Checksum: 2c6b8e49 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Shulker$ShulkerNearestAttackGoal.binpatch
+    Checksum: 64ad534c Exists: true
+  Reading patch net.minecraft.world.entity.monster.Shulker$ShulkerPeekGoal.binpatch
+    Checksum: 72ba7282 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Shulker.binpatch
+    Checksum: 58b4d306 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Silverfish$SilverfishMergeWithStoneGoal.binpatch
+    Checksum: e362f68 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Silverfish$SilverfishWakeUpFriendsGoal.binpatch
+    Checksum: d88c13d2 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Silverfish.binpatch
+    Checksum: 8879d0 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Skeleton.binpatch
+    Checksum: 5ad35e0f Exists: true
+  Reading patch net.minecraft.world.entity.monster.Slime$SlimeAttackGoal.binpatch
+    Checksum: 1426f653 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Slime$SlimeFloatGoal.binpatch
+    Checksum: d4e9e109 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Slime$SlimeKeepOnJumpingGoal.binpatch
+    Checksum: dc1850f6 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Slime$SlimeMoveControl.binpatch
+    Checksum: 6a8b83ce Exists: true
+  Reading patch net.minecraft.world.entity.monster.Slime$SlimeRandomDirectionGoal.binpatch
+    Checksum: 6977f5cf Exists: true
+  Reading patch net.minecraft.world.entity.monster.Slime.binpatch
+    Checksum: fc24c303 Exists: true
+  Reading patch net.minecraft.world.entity.monster.SpellcasterIllager$IllagerSpell.binpatch
+    Checksum: b3861668 Exists: true
+  Reading patch net.minecraft.world.entity.monster.SpellcasterIllager$SpellcasterCastingSpellGoal.binpatch
+    Checksum: 40076067 Exists: true
+  Reading patch net.minecraft.world.entity.monster.SpellcasterIllager$SpellcasterUseSpellGoal.binpatch
+    Checksum: 64f633d8 Exists: true
+  Reading patch net.minecraft.world.entity.monster.SpellcasterIllager.binpatch
+    Checksum: a226c973 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Spider$SpiderAttackGoal.binpatch
+    Checksum: 361b74c5 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Spider$SpiderEffectsGroupData.binpatch
+    Checksum: e7010fce Exists: true
+  Reading patch net.minecraft.world.entity.monster.Spider$SpiderTargetGoal.binpatch
+    Checksum: 5d2d7aea Exists: true
+  Reading patch net.minecraft.world.entity.monster.Spider.binpatch
+    Checksum: 5dc2c04f Exists: true
+  Reading patch net.minecraft.world.entity.monster.Strider$StriderGoToLavaGoal.binpatch
+    Checksum: 5dc34f5e Exists: true
+  Reading patch net.minecraft.world.entity.monster.Strider$StriderPathNavigation.binpatch
+    Checksum: 7e31681e Exists: true
+  Reading patch net.minecraft.world.entity.monster.Strider.binpatch
+    Checksum: 61c7e2a3 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vex$VexChargeAttackGoal.binpatch
+    Checksum: b7e0f16a Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vex$VexCopyOwnerTargetGoal.binpatch
+    Checksum: 165bc7d7 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vex$VexMoveControl.binpatch
+    Checksum: c5b76aa4 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vex$VexRandomMoveGoal.binpatch
+    Checksum: b3339b69 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vex.binpatch
+    Checksum: 95b0c785 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vindicator$VindicatorBreakDoorGoal.binpatch
+    Checksum: 605ababd Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vindicator$VindicatorJohnnyAttackGoal.binpatch
+    Checksum: 28b1163b Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vindicator$VindicatorMeleeAttackGoal.binpatch
+    Checksum: ccf8b30 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Vindicator.binpatch
+    Checksum: 299df27 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Witch.binpatch
+    Checksum: 24aa67ad Exists: true
+  Reading patch net.minecraft.world.entity.monster.WitherSkeleton.binpatch
+    Checksum: 9de31265 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Zombie$ZombieAttackTurtleEggGoal.binpatch
+    Checksum: 8ef778ce Exists: true
+  Reading patch net.minecraft.world.entity.monster.Zombie$ZombieGroupData.binpatch
+    Checksum: 23fb9426 Exists: true
+  Reading patch net.minecraft.world.entity.monster.Zombie.binpatch
+    Checksum: 3eebca7a Exists: true
+  Reading patch net.minecraft.world.entity.monster.ZombieVillager.binpatch
+    Checksum: 66c6b4c4 Exists: true
+  Reading patch net.minecraft.world.entity.monster.ZombifiedPiglin.binpatch
+    Checksum: 23b3d34c Exists: true
+  Reading patch net.minecraft.world.entity.monster.hoglin.Hoglin.binpatch
+    Checksum: d08f4c4f Exists: true
+  Reading patch net.minecraft.world.entity.monster.piglin.AbstractPiglin.binpatch
+    Checksum: 9d430425 Exists: true
+  Reading patch net.minecraft.world.entity.monster.piglin.Piglin.binpatch
+    Checksum: 686d4b02 Exists: true
+  Reading patch net.minecraft.world.entity.monster.piglin.PiglinAi.binpatch
+    Checksum: b451bfc7 Exists: true
+  Reading patch net.minecraft.world.entity.monster.piglin.StopHoldingItemIfNoLongerAdmiring.binpatch
+    Checksum: 70d8f4d6 Exists: true
+  Reading patch net.minecraft.world.entity.npc.AbstractVillager.binpatch
+    Checksum: e51a6597 Exists: true
+  Reading patch net.minecraft.world.entity.npc.CatSpawner.binpatch
+    Checksum: ad29d525 Exists: true
+  Reading patch net.minecraft.world.entity.npc.ClientSideMerchant.binpatch
+    Checksum: 942b0e17 Exists: true
+  Reading patch net.minecraft.world.entity.npc.Villager.binpatch
+    Checksum: 5580abed Exists: true
+  Reading patch net.minecraft.world.entity.npc.VillagerProfession.binpatch
+    Checksum: a01d07e8 Exists: true
+  Reading patch net.minecraft.world.entity.npc.WanderingTrader$WanderToPositionGoal.binpatch
+    Checksum: 9db4cd98 Exists: true
+  Reading patch net.minecraft.world.entity.npc.WanderingTrader.binpatch
+    Checksum: 444095ef Exists: true
+  Reading patch net.minecraft.world.entity.npc.WanderingTraderSpawner.binpatch
+    Checksum: 694bb84c Exists: true
+  Reading patch net.minecraft.world.entity.player.Inventory.binpatch
+    Checksum: 64721e6 Exists: true
+  Reading patch net.minecraft.world.entity.player.Player$1.binpatch
+    Checksum: 652fb2ee Exists: true
+  Reading patch net.minecraft.world.entity.player.Player$BedSleepingProblem.binpatch
+    Checksum: 10c042a0 Exists: true
+  Reading patch net.minecraft.world.entity.player.Player.binpatch
+    Checksum: f4cc8680 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.AbstractArrow$1.binpatch
+    Checksum: 1b7bd058 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.AbstractArrow$Pickup.binpatch
+    Checksum: 7d37cda Exists: true
+  Reading patch net.minecraft.world.entity.projectile.AbstractArrow.binpatch
+    Checksum: fa63cfe1 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.AbstractHurtingProjectile.binpatch
+    Checksum: 702c1015 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.Arrow.binpatch
+    Checksum: c95da00 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.EvokerFangs.binpatch
+    Checksum: f4c66ec6 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.EyeOfEnder.binpatch
+    Checksum: 54a006a0 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.Fireball.binpatch
+    Checksum: 7b04a073 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.FireworkRocketEntity.binpatch
+    Checksum: c4890f10 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.FishingHook$1.binpatch
+    Checksum: 906fdf06 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.FishingHook$FishHookState.binpatch
+    Checksum: 3f205a94 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.FishingHook$OpenWaterType.binpatch
+    Checksum: ef835e1e Exists: true
+  Reading patch net.minecraft.world.entity.projectile.FishingHook.binpatch
+    Checksum: 8a451685 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.LargeFireball.binpatch
+    Checksum: 149266c2 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.LlamaSpit.binpatch
+    Checksum: 1ac690ab Exists: true
+  Reading patch net.minecraft.world.entity.projectile.Projectile.binpatch
+    Checksum: 48ca31b Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ProjectileUtil.binpatch
+    Checksum: 9519a584 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ShulkerBullet.binpatch
+    Checksum: ed7a2aa Exists: true
+  Reading patch net.minecraft.world.entity.projectile.SmallFireball.binpatch
+    Checksum: 84750a45 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.SpectralArrow.binpatch
+    Checksum: eedbc0dd Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ThrowableItemProjectile.binpatch
+    Checksum: 351da255 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ThrowableProjectile.binpatch
+    Checksum: d2d9fe6f Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ThrownEgg.binpatch
+    Checksum: b2877c0a Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ThrownEnderpearl.binpatch
+    Checksum: 8ead103a Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ThrownExperienceBottle.binpatch
+    Checksum: 91732b39 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ThrownPotion.binpatch
+    Checksum: 8cdcb301 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.ThrownTrident.binpatch
+    Checksum: 19ac4b13 Exists: true
+  Reading patch net.minecraft.world.entity.projectile.WitherSkull.binpatch
+    Checksum: 52a36017 Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raid$1.binpatch
+    Checksum: b2d807a8 Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raid$RaidStatus.binpatch
+    Checksum: aec9a2b3 Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raid$RaiderType.binpatch
+    Checksum: bc390e83 Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raid.binpatch
+    Checksum: adbc3425 Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raider$HoldGroundAttackGoal.binpatch
+    Checksum: ddccbc6c Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raider$ObtainRaidLeaderBannerGoal.binpatch
+    Checksum: c06a1813 Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raider$RaiderCelebration.binpatch
+    Checksum: 509b4391 Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raider$RaiderMoveThroughVillageGoal.binpatch
+    Checksum: 726a6815 Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raider.binpatch
+    Checksum: e74b391e Exists: true
+  Reading patch net.minecraft.world.entity.raid.Raids.binpatch
+    Checksum: f03f0eb9 Exists: true
+  Reading patch net.minecraft.world.entity.schedule.Activity.binpatch
+    Checksum: 9e93d448 Exists: true
+  Reading patch net.minecraft.world.entity.schedule.Schedule.binpatch
+    Checksum: 178f0f6b Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.AbstractMinecart$1.binpatch
+    Checksum: 935a5f8f Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.AbstractMinecart$Type.binpatch
+    Checksum: 11526c96 Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.AbstractMinecart.binpatch
+    Checksum: cddcafe7 Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.AbstractMinecartContainer$1.binpatch
+    Checksum: f08c49fd Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.AbstractMinecartContainer.binpatch
+    Checksum: 4c5acd09 Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.Boat$1.binpatch
+    Checksum: 5fd44429 Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.Boat$Status.binpatch
+    Checksum: c7b142ff Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.Boat$Type.binpatch
+    Checksum: 41fa62ce Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.Boat.binpatch
+    Checksum: b10201d0 Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.Minecart.binpatch
+    Checksum: 24468b3f Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.MinecartCommandBlock$MinecartCommandBase.binpatch
+    Checksum: c0a59d5c Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.MinecartCommandBlock.binpatch
+    Checksum: ac6833a7 Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.MinecartFurnace.binpatch
+    Checksum: 41642f6d Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.MinecartSpawner$1.binpatch
+    Checksum: f51f0caf Exists: true
+  Reading patch net.minecraft.world.entity.vehicle.MinecartSpawner.binpatch
+    Checksum: bb48a02a Exists: true
+  Reading patch net.minecraft.world.food.FoodData.binpatch
+    Checksum: 23b5f465 Exists: true
+  Reading patch net.minecraft.world.food.FoodProperties$Builder.binpatch
+    Checksum: 4bcfe864 Exists: true
+  Reading patch net.minecraft.world.food.FoodProperties.binpatch
+    Checksum: f7a610c Exists: true
+  Reading patch net.minecraft.world.inventory.AbstractContainerMenu$1.binpatch
+    Checksum: bb8c1c55 Exists: true
+  Reading patch net.minecraft.world.inventory.AbstractContainerMenu.binpatch
+    Checksum: f1b2b749 Exists: true
+  Reading patch net.minecraft.world.inventory.AbstractFurnaceMenu.binpatch
+    Checksum: 2c870411 Exists: true
+  Reading patch net.minecraft.world.inventory.AnvilMenu$1.binpatch
+    Checksum: f742e2d6 Exists: true
+  Reading patch net.minecraft.world.inventory.AnvilMenu.binpatch
+    Checksum: f5280b9b Exists: true
+  Reading patch net.minecraft.world.inventory.BeaconMenu$1.binpatch
+    Checksum: 5ff6fb6d Exists: true
+  Reading patch net.minecraft.world.inventory.BeaconMenu$PaymentSlot.binpatch
+    Checksum: 5f272dd3 Exists: true
+  Reading patch net.minecraft.world.inventory.BeaconMenu.binpatch
+    Checksum: e95825e1 Exists: true
+  Reading patch net.minecraft.world.inventory.BrewingStandMenu$FuelSlot.binpatch
+    Checksum: 59010de7 Exists: true
+  Reading patch net.minecraft.world.inventory.BrewingStandMenu$IngredientsSlot.binpatch
+    Checksum: d5ffea17 Exists: true
+  Reading patch net.minecraft.world.inventory.BrewingStandMenu$PotionSlot.binpatch
+    Checksum: 177c2ce3 Exists: true
+  Reading patch net.minecraft.world.inventory.BrewingStandMenu.binpatch
+    Checksum: f536ff5c Exists: true
+  Reading patch net.minecraft.world.inventory.CartographyTableMenu$1.binpatch
+    Checksum: 7683ccd6 Exists: true
+  Reading patch net.minecraft.world.inventory.CartographyTableMenu$2.binpatch
+    Checksum: 8fe6ccb0 Exists: true
+  Reading patch net.minecraft.world.inventory.CartographyTableMenu$3.binpatch
+    Checksum: 53a56704 Exists: true
+  Reading patch net.minecraft.world.inventory.CartographyTableMenu$4.binpatch
+    Checksum: bfa57aaf Exists: true
+  Reading patch net.minecraft.world.inventory.CartographyTableMenu$5.binpatch
+    Checksum: 1b1e108a Exists: true
+  Reading patch net.minecraft.world.inventory.CartographyTableMenu.binpatch
+    Checksum: 6f1f62bf Exists: true
+  Reading patch net.minecraft.world.inventory.ChestMenu.binpatch
+    Checksum: 7bb5f3a1 Exists: true
+  Reading patch net.minecraft.world.inventory.ContainerLevelAccess$1.binpatch
+    Checksum: f78b19ac Exists: true
+  Reading patch net.minecraft.world.inventory.ContainerLevelAccess$2.binpatch
+    Checksum: d8b5ad3a Exists: true
+  Reading patch net.minecraft.world.inventory.ContainerLevelAccess.binpatch
+    Checksum: a684a3be Exists: true
+  Reading patch net.minecraft.world.inventory.CraftingContainer.binpatch
+    Checksum: f1c61740 Exists: true
+  Reading patch net.minecraft.world.inventory.CraftingMenu.binpatch
+    Checksum: fdf66938 Exists: true
+  Reading patch net.minecraft.world.inventory.DispenserMenu.binpatch
+    Checksum: e6b86c65 Exists: true
+  Reading patch net.minecraft.world.inventory.EnchantmentMenu$1.binpatch
+    Checksum: 1ba8c0fd Exists: true
+  Reading patch net.minecraft.world.inventory.EnchantmentMenu$2.binpatch
+    Checksum: 145925d2 Exists: true
+  Reading patch net.minecraft.world.inventory.EnchantmentMenu$3.binpatch
+    Checksum: 72f65b16 Exists: true
+  Reading patch net.minecraft.world.inventory.EnchantmentMenu.binpatch
+    Checksum: 9f6ccfb7 Exists: true
+  Reading patch net.minecraft.world.inventory.FurnaceResultSlot.binpatch
+    Checksum: a4bf27a2 Exists: true
+  Reading patch net.minecraft.world.inventory.GrindstoneMenu$1.binpatch
+    Checksum: 9673bf02 Exists: true
+  Reading patch net.minecraft.world.inventory.GrindstoneMenu$2.binpatch
+    Checksum: ba936bab Exists: true
+  Reading patch net.minecraft.world.inventory.GrindstoneMenu$3.binpatch
+    Checksum: a3076bb0 Exists: true
+  Reading patch net.minecraft.world.inventory.GrindstoneMenu$4.binpatch
+    Checksum: 6395d5c Exists: true
+  Reading patch net.minecraft.world.inventory.GrindstoneMenu.binpatch
+    Checksum: e31b400e Exists: true
+  Reading patch net.minecraft.world.inventory.HopperMenu.binpatch
+    Checksum: 70941ace Exists: true
+  Reading patch net.minecraft.world.inventory.HorseInventoryMenu$1.binpatch
+    Checksum: 1b95ce75 Exists: true
+  Reading patch net.minecraft.world.inventory.HorseInventoryMenu$2.binpatch
+    Checksum: 701a8e57 Exists: true
+  Reading patch net.minecraft.world.inventory.HorseInventoryMenu.binpatch
+    Checksum: 50cb7f21 Exists: true
+  Reading patch net.minecraft.world.inventory.InventoryMenu$1.binpatch
+    Checksum: 3709b24f Exists: true
+  Reading patch net.minecraft.world.inventory.InventoryMenu$2.binpatch
+    Checksum: a7557b6a Exists: true
+  Reading patch net.minecraft.world.inventory.InventoryMenu.binpatch
+    Checksum: 1be29cf3 Exists: true
+  Reading patch net.minecraft.world.inventory.ItemCombinerMenu$1.binpatch
+    Checksum: bdc8c286 Exists: true
+  Reading patch net.minecraft.world.inventory.ItemCombinerMenu$2.binpatch
+    Checksum: e52da4e9 Exists: true
+  Reading patch net.minecraft.world.inventory.ItemCombinerMenu.binpatch
+    Checksum: cab7e7d4 Exists: true
+  Reading patch net.minecraft.world.inventory.LecternMenu$1.binpatch
+    Checksum: 94a1073a Exists: true
+  Reading patch net.minecraft.world.inventory.LecternMenu.binpatch
+    Checksum: 5a63e1c Exists: true
+  Reading patch net.minecraft.world.inventory.LoomMenu$1.binpatch
+    Checksum: 1c28c65f Exists: true
+  Reading patch net.minecraft.world.inventory.LoomMenu$2.binpatch
+    Checksum: 82bbb4d5 Exists: true
+  Reading patch net.minecraft.world.inventory.LoomMenu$3.binpatch
+    Checksum: de903c5d Exists: true
+  Reading patch net.minecraft.world.inventory.LoomMenu$4.binpatch
+    Checksum: 16813b3f Exists: true
+  Reading patch net.minecraft.world.inventory.LoomMenu$5.binpatch
+    Checksum: db243f6b Exists: true
+  Reading patch net.minecraft.world.inventory.LoomMenu$6.binpatch
+    Checksum: ec12a0c5 Exists: true
+  Reading patch net.minecraft.world.inventory.LoomMenu.binpatch
+    Checksum: 73d11a2a Exists: true
+  Reading patch net.minecraft.world.inventory.MenuType$MenuSupplier.binpatch
+    Checksum: 9ea7a14d Exists: true
+  Reading patch net.minecraft.world.inventory.MenuType.binpatch
+    Checksum: 3e604686 Exists: true
+  Reading patch net.minecraft.world.inventory.MerchantContainer.binpatch
+    Checksum: 7d2f395a Exists: true
+  Reading patch net.minecraft.world.inventory.MerchantMenu.binpatch
+    Checksum: 6dc23a47 Exists: true
+  Reading patch net.minecraft.world.inventory.PlayerEnderChestContainer.binpatch
+    Checksum: bee3b6ff Exists: true
+  Reading patch net.minecraft.world.inventory.RecipeBookMenu.binpatch
+    Checksum: 2f621792 Exists: true
+  Reading patch net.minecraft.world.inventory.RecipeBookType.binpatch
+    Checksum: 80f91509 Exists: true
+  Reading patch net.minecraft.world.inventory.ResultContainer.binpatch
+    Checksum: 81d0a1f7 Exists: true
+  Reading patch net.minecraft.world.inventory.ResultSlot.binpatch
+    Checksum: 524d3413 Exists: true
+  Reading patch net.minecraft.world.inventory.ShulkerBoxMenu.binpatch
+    Checksum: 2a9c4542 Exists: true
+  Reading patch net.minecraft.world.inventory.Slot.binpatch
+    Checksum: 3e5897f0 Exists: true
+  Reading patch net.minecraft.world.inventory.SmithingMenu.binpatch
+    Checksum: b0b82084 Exists: true
+  Reading patch net.minecraft.world.inventory.StonecutterMenu$1.binpatch
+    Checksum: 8b77d89e Exists: true
+  Reading patch net.minecraft.world.inventory.StonecutterMenu$2.binpatch
+    Checksum: 66a31612 Exists: true
+  Reading patch net.minecraft.world.inventory.StonecutterMenu.binpatch
+    Checksum: fc9ed1f8 Exists: true
+  Reading patch net.minecraft.world.item.ArmorItem$1.binpatch
+    Checksum: 3a86f1b1 Exists: true
+  Reading patch net.minecraft.world.item.ArmorItem.binpatch
+    Checksum: 35ec087f Exists: true
+  Reading patch net.minecraft.world.item.ArmorStandItem.binpatch
+    Checksum: 41413d52 Exists: true
+  Reading patch net.minecraft.world.item.ArrowItem.binpatch
+    Checksum: 8ba65290 Exists: true
+  Reading patch net.minecraft.world.item.AxeItem.binpatch
+    Checksum: 4ebae18b Exists: true
+  Reading patch net.minecraft.world.item.BannerItem.binpatch
+    Checksum: cfabfd02 Exists: true
+  Reading patch net.minecraft.world.item.BlockItem.binpatch
+    Checksum: 1956b0cb Exists: true
+  Reading patch net.minecraft.world.item.BoatItem.binpatch
+    Checksum: bbeaa146 Exists: true
+  Reading patch net.minecraft.world.item.BoneMealItem.binpatch
+    Checksum: b5275553 Exists: true
+  Reading patch net.minecraft.world.item.BowItem.binpatch
+    Checksum: 3a7d6c04 Exists: true
+  Reading patch net.minecraft.world.item.BucketItem.binpatch
+    Checksum: b7e217e3 Exists: true
+  Reading patch net.minecraft.world.item.BundleItem.binpatch
+    Checksum: cb8b1d70 Exists: true
+  Reading patch net.minecraft.world.item.ChorusFruitItem.binpatch
+    Checksum: 90ddd4aa Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$1.binpatch
+    Checksum: 7c99c83d Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$10.binpatch
+    Checksum: b05827de Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$11.binpatch
+    Checksum: e8465323 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$12.binpatch
+    Checksum: 3cbc92f Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$2.binpatch
+    Checksum: 7494c844 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$3.binpatch
+    Checksum: a391c235 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$4.binpatch
+    Checksum: 6f2cc851 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$5.binpatch
+    Checksum: bd6bc255 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$6.binpatch
+    Checksum: ce91c264 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$7.binpatch
+    Checksum: b33fc262 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$8.binpatch
+    Checksum: e35dc284 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab$9.binpatch
+    Checksum: db5ec287 Exists: true
+  Reading patch net.minecraft.world.item.CreativeModeTab.binpatch
+    Checksum: 72586b43 Exists: true
+  Reading patch net.minecraft.world.item.CrossbowItem.binpatch
+    Checksum: d156cfef Exists: true
+  Reading patch net.minecraft.world.item.DebugStickItem.binpatch
+    Checksum: 85c60833 Exists: true
+  Reading patch net.minecraft.world.item.DiggerItem.binpatch
+    Checksum: 4bb54df4 Exists: true
+  Reading patch net.minecraft.world.item.DispensibleContainerItem.binpatch
+    Checksum: fd7b1f86 Exists: true
+  Reading patch net.minecraft.world.item.DyeColor.binpatch
+    Checksum: 7cd4d859 Exists: true
+  Reading patch net.minecraft.world.item.DyeItem.binpatch
+    Checksum: ac756fc6 Exists: true
+  Reading patch net.minecraft.world.item.DyeableHorseArmorItem.binpatch
+    Checksum: a1c2c76d Exists: true
+  Reading patch net.minecraft.world.item.EggItem.binpatch
+    Checksum: 12c39c76 Exists: true
+  Reading patch net.minecraft.world.item.ElytraItem.binpatch
+    Checksum: 55c72eae Exists: true
+  Reading patch net.minecraft.world.item.EndCrystalItem.binpatch
+    Checksum: 7195339d Exists: true
+  Reading patch net.minecraft.world.item.EnderEyeItem.binpatch
+    Checksum: 2982d350 Exists: true
+  Reading patch net.minecraft.world.item.EnderpearlItem.binpatch
+    Checksum: cad9e52f Exists: true
+  Reading patch net.minecraft.world.item.FireChargeItem.binpatch
+    Checksum: 9aaad78e Exists: true
+  Reading patch net.minecraft.world.item.FishingRodItem.binpatch
+    Checksum: 285e4653 Exists: true
+  Reading patch net.minecraft.world.item.FlintAndSteelItem.binpatch
+    Checksum: d594e606 Exists: true
+  Reading patch net.minecraft.world.item.HangingEntityItem.binpatch
+    Checksum: 2bbf3bd5 Exists: true
+  Reading patch net.minecraft.world.item.HoeItem.binpatch
+    Checksum: f4a3a798 Exists: true
+  Reading patch net.minecraft.world.item.HorseArmorItem.binpatch
+    Checksum: b4d79895 Exists: true
+  Reading patch net.minecraft.world.item.Item$1.binpatch
+    Checksum: 4909a314 Exists: true
+  Reading patch net.minecraft.world.item.Item$Properties.binpatch
+    Checksum: 347ef214 Exists: true
+  Reading patch net.minecraft.world.item.Item.binpatch
+    Checksum: 72eb5b34 Exists: true
+  Reading patch net.minecraft.world.item.ItemStack$TooltipPart.binpatch
+    Checksum: b93567e3 Exists: true
+  Reading patch net.minecraft.world.item.ItemStack.binpatch
+    Checksum: 135d0fbe Exists: true
+  Reading patch net.minecraft.world.item.Items$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.world.item.Items.binpatch
+    Checksum: f0a44926 Exists: true
+  Reading patch net.minecraft.world.item.LeadItem.binpatch
+    Checksum: fbb2e35f Exists: true
+  Reading patch net.minecraft.world.item.MapItem.binpatch
+    Checksum: d6b83232 Exists: true
+  Reading patch net.minecraft.world.item.MilkBucketItem.binpatch
+    Checksum: d41bbdf2 Exists: true
+  Reading patch net.minecraft.world.item.MinecartItem$1.binpatch
+    Checksum: 2294f1f3 Exists: true
+  Reading patch net.minecraft.world.item.MinecartItem.binpatch
+    Checksum: 994f5a0 Exists: true
+  Reading patch net.minecraft.world.item.MobBucketItem.binpatch
+    Checksum: c08cea62 Exists: true
+  Reading patch net.minecraft.world.item.PickaxeItem.binpatch
+    Checksum: 116ff76e Exists: true
+  Reading patch net.minecraft.world.item.PlayerHeadItem.binpatch
+    Checksum: 2f014cd8 Exists: true
+  Reading patch net.minecraft.world.item.PotionItem.binpatch
+    Checksum: 329612b5 Exists: true
+  Reading patch net.minecraft.world.item.Rarity.binpatch
+    Checksum: 16e73e86 Exists: true
+  Reading patch net.minecraft.world.item.RecordItem.binpatch
+    Checksum: cda9b5ed Exists: true
+  Reading patch net.minecraft.world.item.ShearsItem.binpatch
+    Checksum: 41472c58 Exists: true
+  Reading patch net.minecraft.world.item.ShieldItem.binpatch
+    Checksum: c9938830 Exists: true
+  Reading patch net.minecraft.world.item.ShovelItem.binpatch
+    Checksum: c24671d Exists: true
+  Reading patch net.minecraft.world.item.SignItem.binpatch
+    Checksum: 4e573873 Exists: true
+  Reading patch net.minecraft.world.item.SnowballItem.binpatch
+    Checksum: 23b7a25f Exists: true
+  Reading patch net.minecraft.world.item.SpawnEggItem.binpatch
+    Checksum: 9e8c6933 Exists: true
+  Reading patch net.minecraft.world.item.StandingAndWallBlockItem.binpatch
+    Checksum: 3cedaf30 Exists: true
+  Reading patch net.minecraft.world.item.SuspiciousStewItem.binpatch
+    Checksum: fbec7821 Exists: true
+  Reading patch net.minecraft.world.item.SwordItem.binpatch
+    Checksum: 2366a426 Exists: true
+  Reading patch net.minecraft.world.item.Tier.binpatch
+    Checksum: 5f383c85 Exists: true
+  Reading patch net.minecraft.world.item.Tiers.binpatch
+    Checksum: f7980cff Exists: true
+  Reading patch net.minecraft.world.item.TridentItem.binpatch
+    Checksum: b3d219e8 Exists: true
+  Reading patch net.minecraft.world.item.alchemy.Potion.binpatch
+    Checksum: 188773d7 Exists: true
+  Reading patch net.minecraft.world.item.alchemy.PotionBrewing$Mix.binpatch
+    Checksum: 222c060a Exists: true
+  Reading patch net.minecraft.world.item.alchemy.PotionBrewing.binpatch
+    Checksum: 14720b6d Exists: true
+  Reading patch net.minecraft.world.item.crafting.BannerDuplicateRecipe.binpatch
+    Checksum: 1947c5 Exists: true
+  Reading patch net.minecraft.world.item.crafting.BlastingRecipe.binpatch
+    Checksum: e91e04a7 Exists: true
+  Reading patch net.minecraft.world.item.crafting.BookCloningRecipe.binpatch
+    Checksum: e95e84d1 Exists: true
+  Reading patch net.minecraft.world.item.crafting.CampfireCookingRecipe.binpatch
+    Checksum: 82650ccd Exists: true
+  Reading patch net.minecraft.world.item.crafting.CustomRecipe.binpatch
+    Checksum: d0c9d52a Exists: true
+  Reading patch net.minecraft.world.item.crafting.Ingredient$ItemValue.binpatch
+    Checksum: f52b5f1 Exists: true
+  Reading patch net.minecraft.world.item.crafting.Ingredient$TagValue.binpatch
+    Checksum: e33da55c Exists: true
+  Reading patch net.minecraft.world.item.crafting.Ingredient$Value.binpatch
+    Checksum: c94b7598 Exists: true
+  Reading patch net.minecraft.world.item.crafting.Ingredient.binpatch
+    Checksum: 7dee25b6 Exists: true
+  Reading patch net.minecraft.world.item.crafting.Recipe$1.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.world.item.crafting.Recipe.binpatch
+    Checksum: df8271e7 Exists: true
+  Reading patch net.minecraft.world.item.crafting.RecipeManager.binpatch
+    Checksum: c3fc91 Exists: true
+  Reading patch net.minecraft.world.item.crafting.RecipeSerializer.binpatch
+    Checksum: 25815065 Exists: true
+  Reading patch net.minecraft.world.item.crafting.RepairItemRecipe.binpatch
+    Checksum: 88c74932 Exists: true
+  Reading patch net.minecraft.world.item.crafting.ShapedRecipe$Serializer.binpatch
+    Checksum: 1206a8ee Exists: true
+  Reading patch net.minecraft.world.item.crafting.ShapedRecipe.binpatch
+    Checksum: c05da245 Exists: true
+  Reading patch net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.binpatch
+    Checksum: cdb34de3 Exists: true
+  Reading patch net.minecraft.world.item.crafting.ShapelessRecipe.binpatch
+    Checksum: ea63e469 Exists: true
+  Reading patch net.minecraft.world.item.crafting.ShulkerBoxColoring.binpatch
+    Checksum: 3ea25020 Exists: true
+  Reading patch net.minecraft.world.item.crafting.SimpleCookingSerializer$CookieBaker.binpatch
+    Checksum: b3a0020e Exists: true
+  Reading patch net.minecraft.world.item.crafting.SimpleCookingSerializer.binpatch
+    Checksum: b7d065a2 Exists: true
+  Reading patch net.minecraft.world.item.crafting.SimpleRecipeSerializer.binpatch
+    Checksum: 9ae272f4 Exists: true
+  Reading patch net.minecraft.world.item.crafting.SingleItemRecipe$Serializer$SingleItemMaker.binpatch
+    Checksum: 4c151795 Exists: true
+  Reading patch net.minecraft.world.item.crafting.SingleItemRecipe$Serializer.binpatch
+    Checksum: 2e46753 Exists: true
+  Reading patch net.minecraft.world.item.crafting.SingleItemRecipe.binpatch
+    Checksum: 8b68aec8 Exists: true
+  Reading patch net.minecraft.world.item.crafting.SmeltingRecipe.binpatch
+    Checksum: f1ce04a7 Exists: true
+  Reading patch net.minecraft.world.item.crafting.SmokingRecipe.binpatch
+    Checksum: d0ed036a Exists: true
+  Reading patch net.minecraft.world.item.crafting.StonecutterRecipe.binpatch
+    Checksum: 1b5a60ef Exists: true
+  Reading patch net.minecraft.world.item.crafting.UpgradeRecipe$Serializer.binpatch
+    Checksum: 875dcb38 Exists: true
+  Reading patch net.minecraft.world.item.crafting.UpgradeRecipe.binpatch
+    Checksum: 2d449509 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.DamageEnchantment.binpatch
+    Checksum: c2c8a9d2 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.DiggingEnchantment.binpatch
+    Checksum: 1bbc418 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.Enchantment$Rarity.binpatch
+    Checksum: 18d264c8 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.Enchantment.binpatch
+    Checksum: 77c38a71 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$1.binpatch
+    Checksum: 480cae2b Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$10.binpatch
+    Checksum: 6c8fb062 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$11.binpatch
+    Checksum: aff0ae34 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$12.binpatch
+    Checksum: 4913e57b Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$13.binpatch
+    Checksum: 10a3b080 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$14.binpatch
+    Checksum: 48fa0371 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$2.binpatch
+    Checksum: 44a6efec Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$3.binpatch
+    Checksum: 56b8effd Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$4.binpatch
+    Checksum: 8bc3f05d Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$5.binpatch
+    Checksum: 4d6cf008 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$6.binpatch
+    Checksum: 8aa9ae80 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$7.binpatch
+    Checksum: 6b41aed7 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$8.binpatch
+    Checksum: 8213b080 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory$9.binpatch
+    Checksum: b216af7d Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentCategory.binpatch
+    Checksum: 77522169 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentHelper$EnchantmentVisitor.binpatch
+    Checksum: 76f1860a Exists: true
+  Reading patch net.minecraft.world.item.enchantment.EnchantmentHelper.binpatch
+    Checksum: d0a565a9 Exists: true
+  Reading patch net.minecraft.world.item.enchantment.Enchantments.binpatch
+    Checksum: b158aa5a Exists: true
+  Reading patch net.minecraft.world.item.enchantment.FrostWalkerEnchantment.binpatch
+    Checksum: 4edcb5d4 Exists: true
+  Reading patch net.minecraft.world.item.trading.Merchant.binpatch
+    Checksum: 47cf6c67 Exists: true
+  Reading patch net.minecraft.world.item.trading.MerchantOffer.binpatch
+    Checksum: ab6e3bb6 Exists: true
+  Reading patch net.minecraft.world.level.BaseCommandBlock.binpatch
+    Checksum: b7d05c10 Exists: true
+  Reading patch net.minecraft.world.level.BaseSpawner.binpatch
+    Checksum: ae412c0c Exists: true
+  Reading patch net.minecraft.world.level.BlockGetter.binpatch
+    Checksum: d35fb715 Exists: true
+  Reading patch net.minecraft.world.level.ClipContext$Block.binpatch
+    Checksum: 47260a3a Exists: true
+  Reading patch net.minecraft.world.level.ClipContext$Fluid.binpatch
+    Checksum: cc41f426 Exists: true
+  Reading patch net.minecraft.world.level.ClipContext$ShapeGetter.binpatch
+    Checksum: 70e396e0 Exists: true
+  Reading patch net.minecraft.world.level.ClipContext.binpatch
+    Checksum: ba1067f4 Exists: true
+  Reading patch net.minecraft.world.level.DataPackConfig.binpatch
+    Checksum: 24e926e0 Exists: true
+  Reading patch net.minecraft.world.level.Explosion$BlockInteraction.binpatch
+    Checksum: 91683942 Exists: true
+  Reading patch net.minecraft.world.level.Explosion.binpatch
+    Checksum: 9b789a27 Exists: true
+  Reading patch net.minecraft.world.level.ExplosionDamageCalculator.binpatch
+    Checksum: 98c75eda Exists: true
+  Reading patch net.minecraft.world.level.ForcedChunksSavedData.binpatch
+    Checksum: 81a3564e Exists: true
+  Reading patch net.minecraft.world.level.GameRules$BooleanValue.binpatch
+    Checksum: a03c04a9 Exists: true
+  Reading patch net.minecraft.world.level.GameRules$Category.binpatch
+    Checksum: 39e4b8f1 Exists: true
+  Reading patch net.minecraft.world.level.GameRules$GameRuleTypeVisitor.binpatch
+    Checksum: 5cd8b2b9 Exists: true
+  Reading patch net.minecraft.world.level.GameRules$IntegerValue.binpatch
+    Checksum: a6f69659 Exists: true
+  Reading patch net.minecraft.world.level.GameRules$Key.binpatch
+    Checksum: ff8afc55 Exists: true
+  Reading patch net.minecraft.world.level.GameRules$Type.binpatch
+    Checksum: 792a2e49 Exists: true
+  Reading patch net.minecraft.world.level.GameRules$Value.binpatch
+    Checksum: 1c4cb1e1 Exists: true
+  Reading patch net.minecraft.world.level.GameRules$VisitorCaller.binpatch
+    Checksum: 83602281 Exists: true
+  Reading patch net.minecraft.world.level.GameRules.binpatch
+    Checksum: 349cff32 Exists: true
+  Reading patch net.minecraft.world.level.Level$1.binpatch
+    Checksum: 3b26023b Exists: true
+  Reading patch net.minecraft.world.level.Level$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.world.level.Level.binpatch
+    Checksum: 71828fef Exists: true
+  Reading patch net.minecraft.world.level.LevelAccessor.binpatch
+    Checksum: 5991fc3b Exists: true
+  Reading patch net.minecraft.world.level.LevelReader.binpatch
+    Checksum: aff2cf2a Exists: true
+  Reading patch net.minecraft.world.level.LevelSettings.binpatch
+    Checksum: 41732230 Exists: true
+  Reading patch net.minecraft.world.level.LevelWriter.binpatch
+    Checksum: 8446483f Exists: true
+  Reading patch net.minecraft.world.level.NaturalSpawner$1.binpatch
+    Checksum: e996d29b Exists: true
+  Reading patch net.minecraft.world.level.NaturalSpawner$AfterSpawnCallback.binpatch
+    Checksum: f73682d0 Exists: true
+  Reading patch net.minecraft.world.level.NaturalSpawner$ChunkGetter.binpatch
+    Checksum: 39598d01 Exists: true
+  Reading patch net.minecraft.world.level.NaturalSpawner$SpawnPredicate.binpatch
+    Checksum: 56d7beb5 Exists: true
+  Reading patch net.minecraft.world.level.NaturalSpawner$SpawnState.binpatch
+    Checksum: 2ac91688 Exists: true
+  Reading patch net.minecraft.world.level.NaturalSpawner.binpatch
+    Checksum: 17bf5bf2 Exists: true
+  Reading patch net.minecraft.world.level.ServerLevelAccessor.binpatch
+    Checksum: 2af99792 Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome$1.binpatch
+    Checksum: ea8e4336 Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome$BiomeBuilder.binpatch
+    Checksum: 2d478bcc Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome$BiomeCategory.binpatch
+    Checksum: 49c8cf0d Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome$ClimateSettings.binpatch
+    Checksum: f11d5a20 Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome$Precipitation.binpatch
+    Checksum: c0dcbae9 Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome$TemperatureModifier$1.binpatch
+    Checksum: c506c38b Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome$TemperatureModifier$2.binpatch
+    Checksum: 625f5412 Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome$TemperatureModifier.binpatch
+    Checksum: b56d1892 Exists: true
+  Reading patch net.minecraft.world.level.biome.Biome.binpatch
+    Checksum: 6e452aca Exists: true
+  Reading patch net.minecraft.world.level.biome.BiomeGenerationSettings$Builder.binpatch
+    Checksum: 54bfe2da Exists: true
+  Reading patch net.minecraft.world.level.biome.BiomeGenerationSettings.binpatch
+    Checksum: 64a2985 Exists: true
+  Reading patch net.minecraft.world.level.biome.BiomeSpecialEffects$Builder.binpatch
+    Checksum: bdd3095a Exists: true
+  Reading patch net.minecraft.world.level.biome.BiomeSpecialEffects$GrassColorModifier$1.binpatch
+    Checksum: f481cae8 Exists: true
+  Reading patch net.minecraft.world.level.biome.BiomeSpecialEffects$GrassColorModifier$2.binpatch
+    Checksum: 4871d05b Exists: true
+  Reading patch net.minecraft.world.level.biome.BiomeSpecialEffects$GrassColorModifier$3.binpatch
+    Checksum: e2792c8d Exists: true
+  Reading patch net.minecraft.world.level.biome.BiomeSpecialEffects$GrassColorModifier$ColorModifier.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.world.level.biome.BiomeSpecialEffects$GrassColorModifier.binpatch
+    Checksum: 61338ea8 Exists: true
+  Reading patch net.minecraft.world.level.biome.BiomeSpecialEffects.binpatch
+    Checksum: 9bf88581 Exists: true
+  Reading patch net.minecraft.world.level.biome.MobSpawnSettings$Builder.binpatch
+    Checksum: 58df645e Exists: true
+  Reading patch net.minecraft.world.level.biome.MobSpawnSettings$MobSpawnCost.binpatch
+    Checksum: 73e4b334 Exists: true
+  Reading patch net.minecraft.world.level.biome.MobSpawnSettings$SpawnerData.binpatch
+    Checksum: 5eaf27f Exists: true
+  Reading patch net.minecraft.world.level.biome.MobSpawnSettings.binpatch
+    Checksum: bf0c27dc Exists: true
+  Reading patch net.minecraft.world.level.block.AbstractCandleBlock.binpatch
+    Checksum: 65c7a824 Exists: true
+  Reading patch net.minecraft.world.level.block.BambooBlock.binpatch
+    Checksum: 82e6e298 Exists: true
+  Reading patch net.minecraft.world.level.block.BambooSaplingBlock.binpatch
+    Checksum: af8f7d2f Exists: true
+  Reading patch net.minecraft.world.level.block.BaseFireBlock.binpatch
+    Checksum: e4bb4d9a Exists: true
+  Reading patch net.minecraft.world.level.block.BasePressurePlateBlock.binpatch
+    Checksum: e53da238 Exists: true
+  Reading patch net.minecraft.world.level.block.BaseRailBlock$1.binpatch
+    Checksum: 1b25dd0a Exists: true
+  Reading patch net.minecraft.world.level.block.BaseRailBlock.binpatch
+    Checksum: cd70a821 Exists: true
+  Reading patch net.minecraft.world.level.block.BeehiveBlock.binpatch
+    Checksum: aed8a5aa Exists: true
+  Reading patch net.minecraft.world.level.block.BigDripleafBlock.binpatch
+    Checksum: 34f89e9e Exists: true
+  Reading patch net.minecraft.world.level.block.Block$1.binpatch
+    Checksum: fe578dfb Exists: true
+  Reading patch net.minecraft.world.level.block.Block$2.binpatch
+    Checksum: e5ecd41e Exists: true
+  Reading patch net.minecraft.world.level.block.Block$BlockStatePairKey.binpatch
+    Checksum: a6322afc Exists: true
+  Reading patch net.minecraft.world.level.block.Block.binpatch
+    Checksum: ca6a785b Exists: true
+  Reading patch net.minecraft.world.level.block.Blocks.binpatch
+    Checksum: 20f8cb2e Exists: true
+  Reading patch net.minecraft.world.level.block.BucketPickup.binpatch
+    Checksum: c21e87ca Exists: true
+  Reading patch net.minecraft.world.level.block.BuddingAmethystBlock.binpatch
+    Checksum: 7afdb732 Exists: true
+  Reading patch net.minecraft.world.level.block.BushBlock.binpatch
+    Checksum: b4b1e8a5 Exists: true
+  Reading patch net.minecraft.world.level.block.ButtonBlock$1.binpatch
+    Checksum: 38df14aa Exists: true
+  Reading patch net.minecraft.world.level.block.ButtonBlock.binpatch
+    Checksum: 2b1c0bdc Exists: true
+  Reading patch net.minecraft.world.level.block.CactusBlock.binpatch
+    Checksum: 514de32c Exists: true
+  Reading patch net.minecraft.world.level.block.CakeBlock.binpatch
+    Checksum: 6231beef Exists: true
+  Reading patch net.minecraft.world.level.block.CampfireBlock.binpatch
+    Checksum: 9406a6c3 Exists: true
+  Reading patch net.minecraft.world.level.block.CauldronBlock.binpatch
+    Checksum: 95682da9 Exists: true
+  Reading patch net.minecraft.world.level.block.CaveVinesBlock.binpatch
+    Checksum: 673ce722 Exists: true
+  Reading patch net.minecraft.world.level.block.ChangeOverTimeBlock.binpatch
+    Checksum: 4f9e4354 Exists: true
+  Reading patch net.minecraft.world.level.block.ChestBlock$1.binpatch
+    Checksum: 3e78883e Exists: true
+  Reading patch net.minecraft.world.level.block.ChestBlock$2$1.binpatch
+    Checksum: 4df2cb26 Exists: true
+  Reading patch net.minecraft.world.level.block.ChestBlock$2.binpatch
+    Checksum: 7b90f557 Exists: true
+  Reading patch net.minecraft.world.level.block.ChestBlock$3.binpatch
+    Checksum: 640b7148 Exists: true
+  Reading patch net.minecraft.world.level.block.ChestBlock$4.binpatch
+    Checksum: 2aa0aad2 Exists: true
+  Reading patch net.minecraft.world.level.block.ChestBlock$DoubleInventory.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.world.level.block.ChestBlock.binpatch
+    Checksum: eb17d919 Exists: true
+  Reading patch net.minecraft.world.level.block.ChorusFlowerBlock.binpatch
+    Checksum: 90c602c7 Exists: true
+  Reading patch net.minecraft.world.level.block.CocoaBlock$1.binpatch
+    Checksum: b466aa81 Exists: true
+  Reading patch net.minecraft.world.level.block.CocoaBlock.binpatch
+    Checksum: 6d9830e0 Exists: true
+  Reading patch net.minecraft.world.level.block.CommandBlock.binpatch
+    Checksum: d133d48 Exists: true
+  Reading patch net.minecraft.world.level.block.ComparatorBlock.binpatch
+    Checksum: b4c9f298 Exists: true
+  Reading patch net.minecraft.world.level.block.ComposterBlock$EmptyContainer.binpatch
+    Checksum: e67f0c40 Exists: true
+  Reading patch net.minecraft.world.level.block.ComposterBlock$InputContainer.binpatch
+    Checksum: a487c02f Exists: true
+  Reading patch net.minecraft.world.level.block.ComposterBlock$OutputContainer.binpatch
+    Checksum: b2845b68 Exists: true
+  Reading patch net.minecraft.world.level.block.ComposterBlock.binpatch
+    Checksum: e194b33f Exists: true
+  Reading patch net.minecraft.world.level.block.ConcretePowderBlock.binpatch
+    Checksum: 758509e0 Exists: true
+  Reading patch net.minecraft.world.level.block.CoralBlock.binpatch
+    Checksum: 88707dfd Exists: true
+  Reading patch net.minecraft.world.level.block.CoralFanBlock.binpatch
+    Checksum: 5af7b643 Exists: true
+  Reading patch net.minecraft.world.level.block.CoralPlantBlock.binpatch
+    Checksum: b5528e3d Exists: true
+  Reading patch net.minecraft.world.level.block.CoralWallFanBlock.binpatch
+    Checksum: 52e7f245 Exists: true
+  Reading patch net.minecraft.world.level.block.CropBlock.binpatch
+    Checksum: e8a7251b Exists: true
+  Reading patch net.minecraft.world.level.block.DaylightDetectorBlock.binpatch
+    Checksum: 39eb38a0 Exists: true
+  Reading patch net.minecraft.world.level.block.DeadBushBlock.binpatch
+    Checksum: 9c0af216 Exists: true
+  Reading patch net.minecraft.world.level.block.DetectorRailBlock$1.binpatch
+    Checksum: 1459cf3b Exists: true
+  Reading patch net.minecraft.world.level.block.DetectorRailBlock.binpatch
+    Checksum: aed2636c Exists: true
+  Reading patch net.minecraft.world.level.block.DiodeBlock.binpatch
+    Checksum: 4f26dc5e Exists: true
+  Reading patch net.minecraft.world.level.block.DirtPathBlock.binpatch
+    Checksum: e8c9d021 Exists: true
+  Reading patch net.minecraft.world.level.block.DispenserBlock.binpatch
+    Checksum: 19242aa7 Exists: true
+  Reading patch net.minecraft.world.level.block.DoorBlock$1.binpatch
+    Checksum: 37680ea3 Exists: true
+  Reading patch net.minecraft.world.level.block.DoorBlock.binpatch
+    Checksum: e2d2735e Exists: true
+  Reading patch net.minecraft.world.level.block.DoublePlantBlock.binpatch
+    Checksum: a72d7914 Exists: true
+  Reading patch net.minecraft.world.level.block.DragonEggBlock.binpatch
+    Checksum: f764948c Exists: true
+  Reading patch net.minecraft.world.level.block.DropperBlock.binpatch
+    Checksum: 2ed7cab5 Exists: true
+  Reading patch net.minecraft.world.level.block.EnchantmentTableBlock.binpatch
+    Checksum: 62975c2a Exists: true
+  Reading patch net.minecraft.world.level.block.EndPortalBlock.binpatch
+    Checksum: 94e64e87 Exists: true
+  Reading patch net.minecraft.world.level.block.FarmBlock.binpatch
+    Checksum: 31c913e Exists: true
+  Reading patch net.minecraft.world.level.block.FenceGateBlock$1.binpatch
+    Checksum: b8d4c940 Exists: true
+  Reading patch net.minecraft.world.level.block.FenceGateBlock.binpatch
+    Checksum: b02e5bca Exists: true
+  Reading patch net.minecraft.world.level.block.FireBlock.binpatch
+    Checksum: 352eb41c Exists: true
+  Reading patch net.minecraft.world.level.block.FlowerBlock.binpatch
+    Checksum: a4681a3f Exists: true
+  Reading patch net.minecraft.world.level.block.FlowerPotBlock.binpatch
+    Checksum: 76171bba Exists: true
+  Reading patch net.minecraft.world.level.block.FungusBlock.binpatch
+    Checksum: 95a010bf Exists: true
+  Reading patch net.minecraft.world.level.block.GrowingPlantHeadBlock.binpatch
+    Checksum: ce9e9837 Exists: true
+  Reading patch net.minecraft.world.level.block.IceBlock.binpatch
+    Checksum: 83a81eea Exists: true
+  Reading patch net.minecraft.world.level.block.InfestedBlock.binpatch
+    Checksum: 17fa669 Exists: true
+  Reading patch net.minecraft.world.level.block.JukeboxBlock.binpatch
+    Checksum: 12c1af26 Exists: true
+  Reading patch net.minecraft.world.level.block.LayeredCauldronBlock.binpatch
+    Checksum: b8a77cd1 Exists: true
+  Reading patch net.minecraft.world.level.block.LeavesBlock.binpatch
+    Checksum: 3306af03 Exists: true
+  Reading patch net.minecraft.world.level.block.LecternBlock$1.binpatch
+    Checksum: 107fad60 Exists: true
+  Reading patch net.minecraft.world.level.block.LecternBlock.binpatch
+    Checksum: b7e02746 Exists: true
+  Reading patch net.minecraft.world.level.block.LeverBlock$1.binpatch
+    Checksum: b55855a0 Exists: true
+  Reading patch net.minecraft.world.level.block.LeverBlock.binpatch
+    Checksum: 75fda708 Exists: true
+  Reading patch net.minecraft.world.level.block.LightningRodBlock.binpatch
+    Checksum: e576d373 Exists: true
+  Reading patch net.minecraft.world.level.block.LiquidBlock.binpatch
+    Checksum: 780925fb Exists: true
+  Reading patch net.minecraft.world.level.block.MagmaBlock.binpatch
+    Checksum: b3a6ca79 Exists: true
+  Reading patch net.minecraft.world.level.block.MultifaceBlock.binpatch
+    Checksum: fe741c41 Exists: true
+  Reading patch net.minecraft.world.level.block.MushroomBlock.binpatch
+    Checksum: 786bac83 Exists: true
+  Reading patch net.minecraft.world.level.block.NetherPortalBlock$1.binpatch
+    Checksum: 15cf048e Exists: true
+  Reading patch net.minecraft.world.level.block.NetherPortalBlock.binpatch
+    Checksum: b63c7917 Exists: true
+  Reading patch net.minecraft.world.level.block.NetherWartBlock.binpatch
+    Checksum: f93604f1 Exists: true
+  Reading patch net.minecraft.world.level.block.NoteBlock.binpatch
+    Checksum: e039d207 Exists: true
+  Reading patch net.minecraft.world.level.block.NyliumBlock.binpatch
+    Checksum: 36398c0b Exists: true
+  Reading patch net.minecraft.world.level.block.ObserverBlock.binpatch
+    Checksum: c097ab05 Exists: true
+  Reading patch net.minecraft.world.level.block.OreBlock.binpatch
+    Checksum: a2a2755e Exists: true
+  Reading patch net.minecraft.world.level.block.PowderSnowBlock.binpatch
+    Checksum: f18ce588 Exists: true
+  Reading patch net.minecraft.world.level.block.PoweredRailBlock$1.binpatch
+    Checksum: eeface2f Exists: true
+  Reading patch net.minecraft.world.level.block.PoweredRailBlock.binpatch
+    Checksum: c9ca7053 Exists: true
+  Reading patch net.minecraft.world.level.block.PressurePlateBlock$1.binpatch
+    Checksum: 986fd61c Exists: true
+  Reading patch net.minecraft.world.level.block.PressurePlateBlock$Sensitivity.binpatch
+    Checksum: 68bc50a9 Exists: true
+  Reading patch net.minecraft.world.level.block.PressurePlateBlock.binpatch
+    Checksum: ee881c6b Exists: true
+  Reading patch net.minecraft.world.level.block.PumpkinBlock.binpatch
+    Checksum: a43e79a9 Exists: true
+  Reading patch net.minecraft.world.level.block.RailBlock$1.binpatch
+    Checksum: afa4c4a9 Exists: true
+  Reading patch net.minecraft.world.level.block.RailBlock.binpatch
+    Checksum: 1d419b0e Exists: true
+  Reading patch net.minecraft.world.level.block.RailState$1.binpatch
+    Checksum: 750f1206 Exists: true
+  Reading patch net.minecraft.world.level.block.RailState.binpatch
+    Checksum: 60e639ec Exists: true
+  Reading patch net.minecraft.world.level.block.RedStoneOreBlock.binpatch
+    Checksum: 57f9ce18 Exists: true
+  Reading patch net.minecraft.world.level.block.RedStoneWireBlock$1.binpatch
+    Checksum: b4da78e6 Exists: true
+  Reading patch net.minecraft.world.level.block.RedStoneWireBlock.binpatch
+    Checksum: 49757ad Exists: true
+  Reading patch net.minecraft.world.level.block.RedstoneLampBlock.binpatch
+    Checksum: 96094959 Exists: true
+  Reading patch net.minecraft.world.level.block.RedstoneTorchBlock$Toggle.binpatch
+    Checksum: 49fd9e84 Exists: true
+  Reading patch net.minecraft.world.level.block.RedstoneTorchBlock.binpatch
+    Checksum: 238a27db Exists: true
+  Reading patch net.minecraft.world.level.block.RootedDirtBlock.binpatch
+    Checksum: 1d8fc07b Exists: true
+  Reading patch net.minecraft.world.level.block.SaplingBlock.binpatch
+    Checksum: 2d937174 Exists: true
+  Reading patch net.minecraft.world.level.block.ScaffoldingBlock.binpatch
+    Checksum: 723cc432 Exists: true
+  Reading patch net.minecraft.world.level.block.SculkSensorBlock.binpatch
+    Checksum: 39079b8 Exists: true
+  Reading patch net.minecraft.world.level.block.SeagrassBlock.binpatch
+    Checksum: 9800475d Exists: true
+  Reading patch net.minecraft.world.level.block.SnowLayerBlock$1.binpatch
+    Checksum: 7163c9da Exists: true
+  Reading patch net.minecraft.world.level.block.SnowLayerBlock.binpatch
+    Checksum: ecd15965 Exists: true
+  Reading patch net.minecraft.world.level.block.SoundType.binpatch
+    Checksum: e111fb9b Exists: true
+  Reading patch net.minecraft.world.level.block.SpawnerBlock.binpatch
+    Checksum: ee9ece8d Exists: true
+  Reading patch net.minecraft.world.level.block.SpongeBlock.binpatch
+    Checksum: 891fb624 Exists: true
+  Reading patch net.minecraft.world.level.block.SpreadingSnowyDirtBlock.binpatch
+    Checksum: bef1156a Exists: true
+  Reading patch net.minecraft.world.level.block.StairBlock$1.binpatch
+    Checksum: c5fa2d9a Exists: true
+  Reading patch net.minecraft.world.level.block.StairBlock.binpatch
+    Checksum: f8836613 Exists: true
+  Reading patch net.minecraft.world.level.block.StemBlock.binpatch
+    Checksum: f5105014 Exists: true
+  Reading patch net.minecraft.world.level.block.SugarCaneBlock.binpatch
+    Checksum: dcca583a Exists: true
+  Reading patch net.minecraft.world.level.block.SweetBerryBushBlock.binpatch
+    Checksum: 3484cd83 Exists: true
+  Reading patch net.minecraft.world.level.block.TallGrassBlock.binpatch
+    Checksum: e6c64373 Exists: true
+  Reading patch net.minecraft.world.level.block.TntBlock.binpatch
+    Checksum: 49c5deb5 Exists: true
+  Reading patch net.minecraft.world.level.block.TrapDoorBlock$1.binpatch
+    Checksum: 63e91355 Exists: true
+  Reading patch net.minecraft.world.level.block.TrapDoorBlock.binpatch
+    Checksum: 6b432143 Exists: true
+  Reading patch net.minecraft.world.level.block.TripWireBlock$1.binpatch
+    Checksum: 233a088b Exists: true
+  Reading patch net.minecraft.world.level.block.TripWireBlock.binpatch
+    Checksum: d568dff5 Exists: true
+  Reading patch net.minecraft.world.level.block.TripWireHookBlock$1.binpatch
+    Checksum: bcc2b317 Exists: true
+  Reading patch net.minecraft.world.level.block.TripWireHookBlock.binpatch
+    Checksum: 8ffd89ad Exists: true
+  Reading patch net.minecraft.world.level.block.TurtleEggBlock.binpatch
+    Checksum: e9e2bed9 Exists: true
+  Reading patch net.minecraft.world.level.block.VineBlock$1.binpatch
+    Checksum: b24802c1 Exists: true
+  Reading patch net.minecraft.world.level.block.VineBlock.binpatch
+    Checksum: e05dc520 Exists: true
+  Reading patch net.minecraft.world.level.block.WaterlilyBlock.binpatch
+    Checksum: b226d34a Exists: true
+  Reading patch net.minecraft.world.level.block.WebBlock.binpatch
+    Checksum: d8f38117 Exists: true
+  Reading patch net.minecraft.world.level.block.WeightedPressurePlateBlock.binpatch
+    Checksum: 3ea7826c Exists: true
+  Reading patch net.minecraft.world.level.block.WitherRoseBlock.binpatch
+    Checksum: 31b63204 Exists: true
+  Reading patch net.minecraft.world.level.block.WitherSkullBlock.binpatch
+    Checksum: 7fe50f02 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.AbstractFurnaceBlockEntity$1.binpatch
+    Checksum: 9b732a1f Exists: true
+  Reading patch net.minecraft.world.level.block.entity.AbstractFurnaceBlockEntity.binpatch
+    Checksum: 2cc932be Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BannerPattern$Builder.binpatch
+    Checksum: e1401105 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BannerPattern.binpatch
+    Checksum: b7018692 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BarrelBlockEntity$1.binpatch
+    Checksum: f8806ca4 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BarrelBlockEntity.binpatch
+    Checksum: 201777d3 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BaseContainerBlockEntity.binpatch
+    Checksum: abe0e746 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BeaconBlockEntity$1.binpatch
+    Checksum: 7eade66a Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BeaconBlockEntity$BeaconBeamSection.binpatch
+    Checksum: 110bad0b Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BeaconBlockEntity.binpatch
+    Checksum: 6c9e9fe6 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData.binpatch
+    Checksum: 715ec15e Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeReleaseStatus.binpatch
+    Checksum: 51577dd2 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BeehiveBlockEntity.binpatch
+    Checksum: 41c22c85 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BlockEntity.binpatch
+    Checksum: 7933095e Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BlockEntityType$BlockEntitySupplier.binpatch
+    Checksum: 7b07e327 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BlockEntityType$Builder.binpatch
+    Checksum: 41143716 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BlockEntityType.binpatch
+    Checksum: ef79f515 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BrewingStandBlockEntity$1.binpatch
+    Checksum: 1b5c09e8 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.BrewingStandBlockEntity.binpatch
+    Checksum: 21e9f379 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.CampfireBlockEntity.binpatch
+    Checksum: c1bc1f63 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.ChestBlockEntity$1.binpatch
+    Checksum: abdc9174 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.ChestBlockEntity.binpatch
+    Checksum: 8d08f5b6 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.CommandBlockEntity$1.binpatch
+    Checksum: 1463d88b Exists: true
+  Reading patch net.minecraft.world.level.block.entity.CommandBlockEntity$Mode.binpatch
+    Checksum: f9e55958 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.CommandBlockEntity.binpatch
+    Checksum: d4e3757a Exists: true
+  Reading patch net.minecraft.world.level.block.entity.ConduitBlockEntity.binpatch
+    Checksum: 18b12f30 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.ContainerOpenersCounter.binpatch
+    Checksum: 32ea6449 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.DispenserBlockEntity.binpatch
+    Checksum: f3a37116 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.HopperBlockEntity.binpatch
+    Checksum: 12b01157 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.LecternBlockEntity$1.binpatch
+    Checksum: df0d691f Exists: true
+  Reading patch net.minecraft.world.level.block.entity.LecternBlockEntity$2.binpatch
+    Checksum: 5bf4f49b Exists: true
+  Reading patch net.minecraft.world.level.block.entity.LecternBlockEntity$LecternInventory.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.world.level.block.entity.LecternBlockEntity.binpatch
+    Checksum: 11b6431c Exists: true
+  Reading patch net.minecraft.world.level.block.entity.ShulkerBoxBlockEntity$1.binpatch
+    Checksum: 4c0f004f Exists: true
+  Reading patch net.minecraft.world.level.block.entity.ShulkerBoxBlockEntity$AnimationStatus.binpatch
+    Checksum: 25318b24 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.ShulkerBoxBlockEntity.binpatch
+    Checksum: 8187781b Exists: true
+  Reading patch net.minecraft.world.level.block.entity.SignBlockEntity.binpatch
+    Checksum: 49f8a8e0 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.SpawnerBlockEntity$1.binpatch
+    Checksum: deec1d12 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.SpawnerBlockEntity.binpatch
+    Checksum: 112bb689 Exists: true
+  Reading patch net.minecraft.world.level.block.entity.TheEndGatewayBlockEntity.binpatch
+    Checksum: 650159b4 Exists: true
+  Reading patch net.minecraft.world.level.block.grower.AbstractMegaTreeGrower.binpatch
+    Checksum: 7fef87a3 Exists: true
+  Reading patch net.minecraft.world.level.block.grower.AbstractTreeGrower.binpatch
+    Checksum: 64c631c1 Exists: true
+  Reading patch net.minecraft.world.level.block.piston.PistonBaseBlock$1.binpatch
+    Checksum: d4f12237 Exists: true
+  Reading patch net.minecraft.world.level.block.piston.PistonBaseBlock$2.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.world.level.block.piston.PistonBaseBlock.binpatch
+    Checksum: eb52c9d4 Exists: true
+  Reading patch net.minecraft.world.level.block.piston.PistonMovingBlockEntity$1.binpatch
+    Checksum: 55cd1871 Exists: true
+  Reading patch net.minecraft.world.level.block.piston.PistonMovingBlockEntity.binpatch
+    Checksum: ffe22583 Exists: true
+  Reading patch net.minecraft.world.level.block.piston.PistonStructureResolver.binpatch
+    Checksum: 8eacf0e5 Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockBehaviour$1.binpatch
+    Checksum: 5658cec6 Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase$Cache.binpatch
+    Checksum: 61bbc69 Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.binpatch
+    Checksum: 8b6ab515 Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockBehaviour$OffsetType.binpatch
+    Checksum: b176595c Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockBehaviour$Properties.binpatch
+    Checksum: 9722d255 Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockBehaviour$StateArgumentPredicate.binpatch
+    Checksum: e05bcfaa Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockBehaviour$StatePredicate.binpatch
+    Checksum: fdea81c5 Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockBehaviour.binpatch
+    Checksum: ad1f17b7 Exists: true
+  Reading patch net.minecraft.world.level.block.state.BlockState.binpatch
+    Checksum: 62813da8 Exists: true
+  Reading patch net.minecraft.world.level.block.state.properties.IntegerProperty.binpatch
+    Checksum: f22ec0df Exists: true
+  Reading patch net.minecraft.world.level.block.state.properties.WoodType.binpatch
+    Checksum: 860b8bda Exists: true
+  Reading patch net.minecraft.world.level.border.WorldBorder$BorderExtent.binpatch
+    Checksum: 2289a260 Exists: true
+  Reading patch net.minecraft.world.level.border.WorldBorder$MovingBorderExtent.binpatch
+    Checksum: 1a4a2d65 Exists: true
+  Reading patch net.minecraft.world.level.border.WorldBorder$Settings.binpatch
+    Checksum: f6716d1f Exists: true
+  Reading patch net.minecraft.world.level.border.WorldBorder$StaticBorderExtent.binpatch
+    Checksum: 20d0c0cd Exists: true
+  Reading patch net.minecraft.world.level.border.WorldBorder.binpatch
+    Checksum: fa36c664 Exists: true
+  Reading patch net.minecraft.world.level.chunk.ChunkAccess$TicksToSave.binpatch
+    Checksum: 9bcbc507 Exists: true
+  Reading patch net.minecraft.world.level.chunk.ChunkAccess.binpatch
+    Checksum: c90c9691 Exists: true
+  Reading patch net.minecraft.world.level.chunk.ChunkGenerator.binpatch
+    Checksum: 190b9dbf Exists: true
+  Reading patch net.minecraft.world.level.chunk.ChunkStatus$ChunkType.binpatch
+    Checksum: 2fd33752 Exists: true
+  Reading patch net.minecraft.world.level.chunk.ChunkStatus$GenerationTask.binpatch
+    Checksum: c45167a6 Exists: true
+  Reading patch net.minecraft.world.level.chunk.ChunkStatus$LoadingTask.binpatch
+    Checksum: 710f09f6 Exists: true
+  Reading patch net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.binpatch
+    Checksum: 1c63a1ee Exists: true
+  Reading patch net.minecraft.world.level.chunk.ChunkStatus.binpatch
+    Checksum: b90ed04 Exists: true
+  Reading patch net.minecraft.world.level.chunk.LevelChunk$1.binpatch
+    Checksum: 15a3c168 Exists: true
+  Reading patch net.minecraft.world.level.chunk.LevelChunk$BoundTickingBlockEntity.binpatch
+    Checksum: b8808341 Exists: true
+  Reading patch net.minecraft.world.level.chunk.LevelChunk$EntityCreationType.binpatch
+    Checksum: 92c45221 Exists: true
+  Reading patch net.minecraft.world.level.chunk.LevelChunk$PostLoadProcessor.binpatch
+    Checksum: 976d7570 Exists: true
+  Reading patch net.minecraft.world.level.chunk.LevelChunk$RebindableTickingBlockEntityWrapper.binpatch
+    Checksum: 4c25ecd4 Exists: true
+  Reading patch net.minecraft.world.level.chunk.LevelChunk.binpatch
+    Checksum: 6116d78 Exists: true
+  Reading patch net.minecraft.world.level.chunk.LevelChunkSection$1BlockCounter.binpatch
+    Checksum: 24b3e981 Exists: true
+  Reading patch net.minecraft.world.level.chunk.LevelChunkSection.binpatch
+    Checksum: 2e58add8 Exists: true
+  Reading patch net.minecraft.world.level.chunk.PalettedContainer$Configuration.binpatch
+    Checksum: 345c17ec Exists: true
+  Reading patch net.minecraft.world.level.chunk.PalettedContainer$CountConsumer.binpatch
+    Checksum: aea984ce Exists: true
+  Reading patch net.minecraft.world.level.chunk.PalettedContainer$Data.binpatch
+    Checksum: 23c35f6e Exists: true
+  Reading patch net.minecraft.world.level.chunk.PalettedContainer$DiscData.binpatch
+    Checksum: a14947b7 Exists: true
+  Reading patch net.minecraft.world.level.chunk.PalettedContainer$Strategy$1.binpatch
+    Checksum: e2d7c8c7 Exists: true
+  Reading patch net.minecraft.world.level.chunk.PalettedContainer$Strategy$2.binpatch
+    Checksum: d76fbcfa Exists: true
+  Reading patch net.minecraft.world.level.chunk.PalettedContainer$Strategy.binpatch
+    Checksum: 9608c3b Exists: true
+  Reading patch net.minecraft.world.level.chunk.PalettedContainer.binpatch
+    Checksum: b612467 Exists: true
+  Reading patch net.minecraft.world.level.chunk.ProtoChunk.binpatch
+    Checksum: 4ee163c9 Exists: true
+  Reading patch net.minecraft.world.level.chunk.storage.ChunkSerializer.binpatch
+    Checksum: 9379149c Exists: true
+  Reading patch net.minecraft.world.level.chunk.storage.ChunkStorage.binpatch
+    Checksum: f5e63751 Exists: true
+  Reading patch net.minecraft.world.level.chunk.storage.EntityStorage.binpatch
+    Checksum: 139e3758 Exists: true
+  Reading patch net.minecraft.world.level.dimension.DimensionType.binpatch
+    Checksum: 72ad755b Exists: true
+  Reading patch net.minecraft.world.level.dimension.LevelStem.binpatch
+    Checksum: 1e5ad666 Exists: true
+  Reading patch net.minecraft.world.level.dimension.end.EndDragonFight.binpatch
+    Checksum: bc8a540f Exists: true
+  Reading patch net.minecraft.world.level.entity.PersistentEntitySectionManager$Callback.binpatch
+    Checksum: 2d916e5a Exists: true
+  Reading patch net.minecraft.world.level.entity.PersistentEntitySectionManager$ChunkLoadStatus.binpatch
+    Checksum: 99548ec9 Exists: true
+  Reading patch net.minecraft.world.level.entity.PersistentEntitySectionManager.binpatch
+    Checksum: 3e0e9caa Exists: true
+  Reading patch net.minecraft.world.level.entity.TransientEntitySectionManager$Callback.binpatch
+    Checksum: 5cc0caa8 Exists: true
+  Reading patch net.minecraft.world.level.entity.TransientEntitySectionManager.binpatch
+    Checksum: e5db9e2d Exists: true
+  Reading patch net.minecraft.world.level.gameevent.vibrations.VibrationListener$VibrationListenerConfig.binpatch
+    Checksum: 11d20567 Exists: true
+  Reading patch net.minecraft.world.level.gameevent.vibrations.VibrationListener.binpatch
+    Checksum: c9a88982 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.DebugLevelSource.binpatch
+    Checksum: ca858ebe Exists: true
+  Reading patch net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator.binpatch
+    Checksum: ce7beca6 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.PatrolSpawner.binpatch
+    Checksum: 2a46eba6 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.PhantomSpawner.binpatch
+    Checksum: f0120252 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.WorldGenSettings.binpatch
+    Checksum: 9eae1af0 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.carver.WorldCarver$CarveSkipChecker.binpatch
+    Checksum: 11306dd3 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.carver.WorldCarver.binpatch
+    Checksum: 518df088 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.Feature.binpatch
+    Checksum: e66b471d Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.MonsterRoomFeature.binpatch
+    Checksum: 863e0494 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.StructureFeature.binpatch
+    Checksum: bd307eb5 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.configurations.TreeConfiguration$TreeConfigurationBuilder.binpatch
+    Checksum: 625ea69f Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.configurations.TreeConfiguration.binpatch
+    Checksum: 80fb5a96 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType.binpatch
+    Checksum: 6f5e6a69 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.stateproviders.BlockStateProviderType.binpatch
+    Checksum: 7a3c3c4f Exists: true
+  Reading patch net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType.binpatch
+    Checksum: 4041085a Exists: true
+  Reading patch net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorSettings.binpatch
+    Checksum: 82abd1d4 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.StructurePiece$1.binpatch
+    Checksum: 4e19bb76 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.StructurePiece$BlockSelector.binpatch
+    Checksum: 376df960 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.StructurePiece.binpatch
+    Checksum: c331f625 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.StructureStart.binpatch
+    Checksum: c2bacaf3 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructureManager.binpatch
+    Checksum: 39fee183 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructurePlaceSettings.binpatch
+    Checksum: a0498c23 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructureProcessor.binpatch
+    Checksum: 7460dd8a Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate$1.binpatch
+    Checksum: f5742d92 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate$Palette.binpatch
+    Checksum: decfbae0 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate$SimplePalette.binpatch
+    Checksum: 57625e2e Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate$StructureBlockInfo.binpatch
+    Checksum: c3526eae Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate$StructureEntityInfo.binpatch
+    Checksum: 411f09c4 Exists: true
+  Reading patch net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate.binpatch
+    Checksum: 3425f9d5 Exists: true
+  Reading patch net.minecraft.world.level.lighting.BlockLightEngine.binpatch
+    Checksum: 5942d595 Exists: true
+  Reading patch net.minecraft.world.level.lighting.DynamicGraphMinFixedPoint$1.binpatch
+    Checksum: 1ad5ea6a Exists: true
+  Reading patch net.minecraft.world.level.lighting.DynamicGraphMinFixedPoint$2.binpatch
+    Checksum: df50e9f0 Exists: true
+  Reading patch net.minecraft.world.level.lighting.DynamicGraphMinFixedPoint.binpatch
+    Checksum: 9e6bc42b Exists: true
+  Reading patch net.minecraft.world.level.lighting.LayerLightEngine.binpatch
+    Checksum: da9ad05 Exists: true
+  Reading patch net.minecraft.world.level.lighting.SkyLightEngine.binpatch
+    Checksum: b7fe1443 Exists: true
+  Reading patch net.minecraft.world.level.material.FlowingFluid$1.binpatch
+    Checksum: a531ebe6 Exists: true
+  Reading patch net.minecraft.world.level.material.FlowingFluid.binpatch
+    Checksum: 2827387c Exists: true
+  Reading patch net.minecraft.world.level.material.Fluid.binpatch
+    Checksum: 6522b16d Exists: true
+  Reading patch net.minecraft.world.level.material.FluidState.binpatch
+    Checksum: 191f0aac Exists: true
+  Reading patch net.minecraft.world.level.material.LavaFluid$Flowing.binpatch
+    Checksum: 11134f20 Exists: true
+  Reading patch net.minecraft.world.level.material.LavaFluid$Source.binpatch
+    Checksum: cd17ad22 Exists: true
+  Reading patch net.minecraft.world.level.material.LavaFluid.binpatch
+    Checksum: 1b9b260a Exists: true
+  Reading patch net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator.binpatch
+    Checksum: 8678ea34 Exists: true
+  Reading patch net.minecraft.world.level.pathfinder.BlockPathTypes.binpatch
+    Checksum: df41484b Exists: true
+  Reading patch net.minecraft.world.level.pathfinder.WalkNodeEvaluator.binpatch
+    Checksum: beffbaa1 Exists: true
+  Reading patch net.minecraft.world.level.portal.PortalForcer.binpatch
+    Checksum: 4c66ac88 Exists: true
+  Reading patch net.minecraft.world.level.portal.PortalInfo.binpatch
+    Checksum: d34a8aef Exists: true
+  Reading patch net.minecraft.world.level.portal.PortalShape.binpatch
+    Checksum: 32364d8d Exists: true
+  Reading patch net.minecraft.world.level.saveddata.maps.MapDecoration$Type.binpatch
+    Checksum: 1cb63e29 Exists: true
+  Reading patch net.minecraft.world.level.saveddata.maps.MapDecoration.binpatch
+    Checksum: df0ddb38 Exists: true
+  Reading patch net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer.binpatch
+    Checksum: 597ee60f Exists: true
+  Reading patch net.minecraft.world.level.saveddata.maps.MapItemSavedData$MapPatch.binpatch
+    Checksum: 7df3032a Exists: true
+  Reading patch net.minecraft.world.level.saveddata.maps.MapItemSavedData.binpatch
+    Checksum: 7fd37339 Exists: true
+  Reading patch net.minecraft.world.level.storage.DerivedLevelData.binpatch
+    Checksum: 189d2ce5 Exists: true
+  Reading patch net.minecraft.world.level.storage.DimensionDataStorage.binpatch
+    Checksum: e54a9876 Exists: true
+  Reading patch net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess$1.binpatch
+    Checksum: bc06ae90 Exists: true
+  Reading patch net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess$2.binpatch
+    Checksum: 7674db24 Exists: true
+  Reading patch net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.binpatch
+    Checksum: 64494253 Exists: true
+  Reading patch net.minecraft.world.level.storage.LevelStorageSource.binpatch
+    Checksum: faf94e3f Exists: true
+  Reading patch net.minecraft.world.level.storage.LevelSummary$BackupStatus.binpatch
+    Checksum: f9e1b0fa Exists: true
+  Reading patch net.minecraft.world.level.storage.LevelSummary.binpatch
+    Checksum: f027810 Exists: true
+  Reading patch net.minecraft.world.level.storage.PlayerDataStorage.binpatch
+    Checksum: d4db224b Exists: true
+  Reading patch net.minecraft.world.level.storage.PrimaryLevelData.binpatch
+    Checksum: dbf78fb2 Exists: true
